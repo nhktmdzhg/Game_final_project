@@ -1,0 +1,13 @@
+
+=== Fri Aug 29 22:02:27 2025
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.ai.navigation from version 1.1.5 to 1.1.6
+  com.unity.cinemachine from version 2.10.1 to 2.10.3
+  com.unity.collab-proxy from version 2.4.3 to 2.7.1
+  com.unity.ide.rider from version 3.0.31 to 3.0.36
+  com.unity.textmeshpro from version 3.0.6 to 3.0.7
+  com.unity.timeline from version 1.7.6 to 1.7.7
