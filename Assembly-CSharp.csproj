@@ -61,74 +61,73 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Other\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventCheck.cs" />
-    <Compile Include="Assets\Original Assets\Scripts\SoundManager.cs" />
     <Compile Include="Assets\Other\TextMesh Pro\Examples &amp; Extras\Scripts\DropdownSample.cs" />
-    <Compile Include="Assets\Original Assets\Scripts\ButtonPressed.cs" />
     <Compile Include="Assets\Other\Dreamteck\Splines\Components\SplineMesh.cs" />
     <Compile Include="Assets\Other\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_UiFrameRateCounter.cs" />
     <Compile Include="Assets\Art Resources\Epic Toon FX\Demo\Scripts\ETFXEffectCycler.cs" />
     <Compile Include="Assets\Other\Dreamteck\Utilities\DuplicateUtility.cs" />
     <Compile Include="Assets\Other\Dreamteck\Utilities\TransformUtility.cs" />
+    <Compile Include="Assets\Game Assets\Scripts\SpinLight.cs" />
     <Compile Include="Assets\Other\Dreamteck\Splines\Core\SampleCollection.cs" />
-    <Compile Include="Assets\Original Assets\Scripts\MovingMoneyUpDown.cs" />
     <Compile Include="Assets\Other\Dreamteck\Splines\Core\Primitives\RoundedRectangle.cs" />
     <Compile Include="Assets\Other\Demigiant\Demigiant\DOTween\Modules\DOTweenModuleUnityVersion.cs" />
     <Compile Include="Assets\Other\Dreamteck\Splines\Components\SplineProjector.cs" />
-    <Compile Include="Assets\Original Assets\Scripts\StackIncrease.cs" />
-    <Compile Include="Assets\Original Assets\Scripts\GameManager.cs" />
     <Compile Include="Assets\Art Resources\Epic Toon FX\Demo\Scripts\ETFXFireProjectile.cs" />
     <Compile Include="Assets\Other\Demigiant\Demigiant\DOTween\Modules\DOTweenModuleSprite.cs" />
+    <Compile Include="Assets\Game Assets\Scripts\MovingMoneyUpDown.cs" />
     <Compile Include="Assets\Other\Demigiant\Demigiant\DOTween\Modules\DOTweenModuleAudio.cs" />
     <Compile Include="Assets\Other\Demigiant\Demigiant\DOTweenPro\DOTweenAnimation.cs" />
     <Compile Include="Assets\Art Resources\Epic Toon FX\Scripts\ETFXRotation.cs" />
+    <Compile Include="Assets\Game Assets\Scripts\CameraFollow.cs" />
     <Compile Include="Assets\Other\Dreamteck\Splines\Core\Primitives\Line.cs" />
     <Compile Include="Assets\Other\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark03.cs" />
     <Compile Include="Assets\Other\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
     <Compile Include="Assets\Other\Dreamteck\Splines\Components\ParticleController.cs" />
     <Compile Include="Assets\Other\Demigiant\Demigiant\DOTweenPro\DOTweenProShortcuts.cs" />
     <Compile Include="Assets\AdsManager\Script\AdmobOpenApp.cs" />
+    <Compile Include="Assets\Game Assets\Scripts\PlayerPowerController.cs" />
     <Compile Include="Assets\Other\Dreamteck\Splines\Components\SplineMorph.cs" />
     <Compile Include="Assets\Art Resources\Epic Toon FX\Demo\Scripts\ETFXEffectControllerPooled.cs" />
+    <Compile Include="Assets\Game Assets\Scripts\StackIncrease.cs" />
     <Compile Include="Assets\Other\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshProFloatingText.cs" />
     <Compile Include="Assets\Other\Demigiant\Demigiant\DOTweenPro\DOTweenTextMeshPro.cs" />
-    <Compile Include="Assets\Original Assets\Scripts\MoneyIndicatorValue.cs" />
     <Compile Include="Assets\Other\Dreamteck\Utilities\DMath.cs" />
+    <Compile Include="Assets\Game Assets\Scripts\MoneyPosController.cs" />
+    <Compile Include="Assets\Game Assets\Scripts\SoundManager.cs" />
     <Compile Include="Assets\Other\Demigiant\Demigiant\DOTween\Modules\DOTweenModulePhysics.cs" />
-    <Compile Include="Assets\Original Assets\Scripts\ObstacleValue.cs" />
     <Compile Include="Assets\Other\Dreamteck\Splines\Core\ObjectSequence.cs" />
     <Compile Include="Assets\Other\Dreamteck\Utilities\LinearAlgebraUtility.cs" />
     <Compile Include="Assets\Other\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark04.cs" />
-    <Compile Include="Assets\Original Assets\Scripts\StaircaseValue.cs" />
+    <Compile Include="Assets\Game Assets\Scripts\MenuManager.cs" />
+    <Compile Include="Assets\Game Assets\Scripts\CanvasReferenceScaler.cs" />
     <Compile Include="Assets\Other\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_B.cs" />
+    <Compile Include="Assets\Game Assets\Scripts\ObstacleValue.cs" />
     <Compile Include="Assets\Other\TextMesh Pro\Examples &amp; Extras\Scripts\TeleType.cs" />
     <Compile Include="Assets\Other\Dreamteck\Splines\Core\Primitives\Rectangle.cs" />
-    <Compile Include="Assets\Original Assets\Scripts\MenuManager.cs" />
     <Compile Include="Assets\Other\Dreamteck\Splines\Components\TubeGenerator.cs" />
-    <Compile Include="Assets\Original Assets\Scripts\StairBuilding.cs" />
-    <Compile Include="Assets\Original Assets\Scripts\MoneyPathMove.cs" />
-    <Compile Include="Assets\Original Assets\Scripts\BuildingBlockMoveSpeed.cs" />
-    <Compile Include="Assets\Original Assets\Scripts\MovingPointer.cs" />
+    <Compile Include="Assets\Game Assets\Scripts\GameManager.cs" />
     <Compile Include="Assets\Art Resources\Epic Toon FX\Scripts\ETFXPitchRandomizer.cs" />
+    <Compile Include="Assets\Game Assets\Scripts\ButtonPressedUI.cs" />
     <Compile Include="Assets\Other\Dreamteck\Splines\Core\Primitives\Ellipse.cs" />
     <Compile Include="Assets\Other\Dreamteck\Splines\Core\SplinePrefs.cs" />
     <Compile Include="Assets\Other\Dreamteck\Splines\Core\IO\SVG.cs" />
     <Compile Include="Assets\AdsManager\Script\AdmobReward.cs" />
-    <Compile Include="Assets\Original Assets\Scripts\PlayerMovement.cs" />
-    <Compile Include="Assets\Original Assets\Scripts\MoneyPathGen.cs" />
     <Compile Include="Assets\Art Resources\Epic Toon FX\Demo\Scripts\ETFXLoopScript.cs" />
     <Compile Include="Assets\Other\Dreamteck\Splines\Core\Spline.cs" />
     <Compile Include="Assets\Other\TextMesh Pro\Examples &amp; Extras\Scripts\SkewTextExample.cs" />
     <Compile Include="Assets\Other\Dreamteck\Splines\Components\Sample Modifiers\ColorModifier.cs" />
     <Compile Include="Assets\Other\Dreamteck\Splines\Components\Node.cs" />
+    <Compile Include="Assets\Game Assets\Scripts\TrapRotation.cs" />
     <Compile Include="Assets\AdsManager\Script\AdmobInter.cs" />
-    <Compile Include="Assets\Original Assets\Scripts\PointerMovement.cs" />
     <Compile Include="Assets\Other\TextMesh Pro\Examples &amp; Extras\Scripts\ChatController.cs" />
+    <Compile Include="Assets\Game Assets\Scripts\EndingCalculation.cs" />
     <Compile Include="Assets\Other\TextMesh Pro\Examples &amp; Extras\Scripts\VertexColorCycler.cs" />
     <Compile Include="Assets\Other\Dreamteck\Splines\Components\SplineTracer.cs" />
     <Compile Include="Assets\Other\Demigiant\Demigiant\DOTweenPro\DOTweenDeUnityExtended.cs" />
     <Compile Include="Assets\Other\Dreamteck\Splines\Components\WaveformGenerator.cs" />
     <Compile Include="Assets\AdsManager\Script\AdmobManager.cs" />
     <Compile Include="Assets\Other\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshSpawner.cs" />
+    <Compile Include="Assets\Game Assets\Scripts\BundleControl.cs" />
     <Compile Include="Assets\Other\Dreamteck\Utilities\TS_Transform.cs" />
     <Compile Include="Assets\Other\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventHandler.cs" />
     <Compile Include="Assets\Other\Dreamteck\Splines\Components\SplinePositioner.cs" />
@@ -144,37 +143,39 @@
     <Compile Include="Assets\Other\TextMesh Pro\Examples &amp; Extras\Scripts\SimpleScript.cs" />
     <Compile Include="Assets\Other\Dreamteck\Utilities\MeshUtility.cs" />
     <Compile Include="Assets\Other\TextMesh Pro\Examples &amp; Extras\Scripts\VertexZoom.cs" />
-    <Compile Include="Assets\Original Assets\Scripts\BundleControl.cs" />
-    <Compile Include="Assets\Original Assets\Scripts\MoneyStackValue.cs" />
     <Compile Include="Assets\Other\Dreamteck\Splines\Components\SurfaceGenerator.cs" />
     <Compile Include="Assets\Other\Dreamteck\Splines\Core\Primitives\SplinePrimitive.cs" />
     <Compile Include="Assets\Other\Dreamteck\Splines\Core\SplinePoint.cs" />
+    <Compile Include="Assets\Game Assets\Scripts\control.cs" />
     <Compile Include="Assets\Other\Dreamteck\Splines\Core\IO\CSV.cs" />
     <Compile Include="Assets\Other\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_ExampleScript_01.cs" />
-    <Compile Include="Assets\Original Assets\Scripts\Constants.cs" />
     <Compile Include="Assets\Other\Dreamteck\Splines\Components\MeshGenerator.cs" />
+    <Compile Include="Assets\Game Assets\Scripts\MoneyStackValue.cs" />
     <Compile Include="Assets\Other\Dreamteck\Splines\Components\ObjectBender.cs" />
-    <Compile Include="Assets\Original Assets\Scripts\StackPosController.cs" />
+    <Compile Include="Assets\Game Assets\Scripts\PointerMovement.cs" />
     <Compile Include="Assets\Other\Dreamteck\Splines\Core\Primitives\Ngon.cs" />
-    <Compile Include="Assets\Original Assets\Scripts\control.cs" />
     <Compile Include="Assets\Other\Demigiant\Demigiant\DOTweenPro\DOTweenDeAudio.cs" />
     <Compile Include="Assets\Other\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeB.cs" />
     <Compile Include="Assets\Other\TextMesh Pro\Examples &amp; Extras\Scripts\CameraController.cs" />
+    <Compile Include="Assets\Game Assets\Scripts\ListOfCurrentMoneyStack.cs" />
     <Compile Include="Assets\Other\Dreamteck\Splines\Components\Sample Modifiers\SizeModifier.cs" />
     <Compile Include="Assets\Other\Dreamteck\Splines\Components\Sample Modifiers\SplineSampleModifier.cs" />
+    <Compile Include="Assets\Game Assets\Scripts\ShowGemOnUI.cs" />
     <Compile Include="Assets\Other\Dreamteck\Utilities\TS_Mesh.cs" />
     <Compile Include="Assets\Other\TextMesh Pro\Examples &amp; Extras\Scripts\VertexJitter.cs" />
-    <Compile Include="Assets\Original Assets\Scripts\PlayerPowerController.cs" />
+    <Compile Include="Assets\Game Assets\Scripts\BuildingBlockMoveSpeed.cs" />
     <Compile Include="Assets\Other\Dreamteck\Splines\Core\Primitives\Capsule.cs" />
     <Compile Include="Assets\Art Resources\Epic Toon FX\Demo\Scripts\ETFXSceneManager.cs" />
+    <Compile Include="Assets\Game Assets\Scripts\Constants.cs" />
+    <Compile Include="Assets\Game Assets\Scripts\MoneyIndicatorValue.cs" />
     <Compile Include="Assets\Other\Dreamteck\Splines\Components\SplineRenderer.cs" />
     <Compile Include="Assets\Other\TextMesh Pro\Examples &amp; Extras\Scripts\WarpTextExample.cs" />
+    <Compile Include="Assets\Game Assets\Scripts\ObstacleHit.cs" />
     <Compile Include="Assets\Art Resources\Epic Toon FX\Demo\Scripts\ETFXMouseOrbit.cs" />
     <Compile Include="Assets\Other\Dreamteck\Utilities\Utilities.cs" />
-    <Compile Include="Assets\Original Assets\Scripts\ShowGemOnUI.cs" />
+    <Compile Include="Assets\Game Assets\Scripts\PlayerMovement.cs" />
     <Compile Include="Assets\Other\Dreamteck\Utilities\ScriptableObjectUtility.cs" />
     <Compile Include="Assets\Art Resources\Epic Toon FX\Demo\Scripts\ETFXEffectController.cs" />
-    <Compile Include="Assets\Original Assets\Scripts\PowerPortalValue.cs" />
     <Compile Include="Assets\Other\TextMesh Pro\Examples &amp; Extras\Scripts\ShaderPropAnimator.cs" />
     <Compile Include="Assets\Art Resources\Epic Toon FX\Demo\Scripts\VFX Library\PEButtonScript.cs" />
     <Compile Include="Assets\Other\Demigiant\Demigiant\DOTween\Modules\DOTweenModuleUtils.cs" />
@@ -191,37 +192,36 @@
     <Compile Include="Assets\Other\Dreamteck\Splines\Components\SplineComputer.cs" />
     <Compile Include="Assets\Art Resources\Epic Toon FX\Demo\Scripts\ETFXProjectileScript.cs" />
     <Compile Include="Assets\Art Resources\Epic Toon FX\Demo\Scripts\ETFXButtonScript.cs" />
-    <Compile Include="Assets\Original Assets\Scripts\MultiplierValue.cs" />
-    <Compile Include="Assets\Original Assets\Scripts\CameraFollow.cs" />
+    <Compile Include="Assets\Game Assets\Scripts\PowerPortalValue.cs" />
     <Compile Include="Assets\Other\Dreamteck\Splines\Components\BlankUser.cs" />
     <Compile Include="Assets\Other\Dreamteck\Splines\Components\SplineUser.cs" />
     <Compile Include="Assets\Art Resources\Epic Toon FX\Demo\Scripts\VFX Library\ParticleEffectsLibrary.cs" />
-    <Compile Include="Assets\Original Assets\Scripts\ListOfCurrentMoneyStack.cs" />
     <Compile Include="Assets\Other\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
-    <Compile Include="Assets\Original Assets\Scripts\PlayerBlockMovement.cs" />
-    <Compile Include="Assets\Original Assets\Scripts\CanvasReferenceScaler.cs" />
     <Compile Include="Assets\Other\Demigiant\Demigiant\DOTween\Modules\DOTweenModuleUI.cs" />
     <Compile Include="Assets\Other\Demigiant\Demigiant\DOTween\Modules\DOTweenModulePhysics2D.cs" />
     <Compile Include="Assets\Other\Dreamteck\Splines\Core\SplineTrigger.cs" />
-    <Compile Include="Assets\Original Assets\Scripts\StairClimbing.cs" />
+    <Compile Include="Assets\Game Assets\Scripts\PowerPortalsSetting.cs" />
+    <Compile Include="Assets\Game Assets\Scripts\MovingPointer.cs" />
     <Compile Include="Assets\Other\Dreamteck\Splines\Core\Primitives\Spiral.cs" />
+    <Compile Include="Assets\Game Assets\Scripts\MoneyPathGen.cs" />
     <Compile Include="Assets\Other\Dreamteck\Splines\Components\LengthCalculator.cs" />
     <Compile Include="Assets\Other\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_A.cs" />
+    <Compile Include="Assets\Game Assets\Scripts\StairBuilding.cs" />
     <Compile Include="Assets\Other\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextInfoDebugTool.cs" />
-    <Compile Include="Assets\Original Assets\Scripts\SpinLight.cs" />
     <Compile Include="Assets\Other\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark02.cs" />
     <Compile Include="Assets\Other\TextMesh Pro\Examples &amp; Extras\Scripts\EnvMapAnimator.cs" />
-    <Compile Include="Assets\Original Assets\Scripts\EndingCalculation.cs" />
     <Compile Include="Assets\Other\TextMesh Pro\Examples &amp; Extras\Scripts\TMPro_InstructionOverlay.cs" />
     <Compile Include="Assets\Other\TextMesh Pro\Examples &amp; Extras\Scripts\TextConsoleSimulator.cs" />
+    <Compile Include="Assets\Game Assets\Scripts\StairClimbing.cs" />
     <Compile Include="Assets\Art Resources\Epic Toon FX\Scripts\ETFXLightFade.cs" />
-    <Compile Include="Assets\Original Assets\Scripts\PowerPortalsSetting.cs" />
+    <Compile Include="Assets\Game Assets\Scripts\PlayerBlockMovement.cs" />
     <Compile Include="Assets\Art Resources\Epic Toon FX\Demo\Scripts\VFX Library\UICanvasManager.cs" />
     <Compile Include="Assets\Other\TextMesh Pro\Examples &amp; Extras\Scripts\ObjectSpin.cs" />
     <Compile Include="Assets\Other\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeA.cs" />
-    <Compile Include="Assets\Original Assets\Scripts\TrapRotation.cs" />
+    <Compile Include="Assets\Game Assets\Scripts\MoneyPathMove.cs" />
     <Compile Include="Assets\Other\Dreamteck\Utilities\TS_Bounds.cs" />
-    <Compile Include="Assets\Original Assets\Scripts\ObstacleHit.cs" />
+    <Compile Include="Assets\Game Assets\Scripts\MultiplierValue.cs" />
+    <Compile Include="Assets\Game Assets\Scripts\StaircaseValue.cs" />
     <Compile Include="Assets\Other\Dreamteck\Splines\Components\Sample Modifiers\RotationModifier.cs" />
     <Compile Include="Assets\Other\Dreamteck\Splines\Core\SplineThreading.cs" />
     <Compile Include="Assets\AnalyticManager\Scripts\AnalyticManager.cs" />
@@ -241,11 +241,9 @@
     <None Include="Assets\JMO Assets\Toony Colors Pro\Shader Templates 2\Modules\Module_Outline.txt" />
     <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders\Hybrid 2\TCP2 Hybrid 2 Include.cginc" />
     <None Include="Assets\Firebase\Plugins\Firebase.Analytics.dll" />
-    <None Include="Assets\GoogleMobileAds\GoogleMobileAds.Common.dll" />
     <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders Generated\Examples\SG2\Stylized Water.shader" />
     <None Include="Assets\JMO Assets\Toony Colors Pro\Shader Templates 2\Modules\Module_Terrain.txt" />
     <None Include="Assets\Other\___www.unityassetcollection.com___.txt" />
-    <None Include="Assets\GoogleMobileAds\GoogleMobileAds.Ump.iOS.dll" />
     <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders Generated\Examples\SG2\Detail Texture Simple.shader" />
     <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders\Standard PBS\TCP2_PBS_Main.cginc" />
     <None Include="Assets\Other\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
@@ -254,12 +252,10 @@
     <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders\Legacy\Variants Base\TCP2_Mobile_Specular_OutlineBlending.shader" />
     <None Include="Assets\Firebase\Plugins\iOS\Firebase.Analytics.dll" />
     <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders Generated\Examples\SG2\Vertex Color Albedo.shader" />
-    <None Include="Assets\GoogleMobileAds\GoogleMobileAds.dll" />
     <None Include="Assets\JMO Assets\Toony Colors Pro\Shader Templates 2\Modules\Module_MatCap.txt" />
     <None Include="Assets\Other\TextMesh Pro\Examples &amp; Extras\Fonts\Oswald-Bold - OFL.txt" />
     <None Include="Assets\Firebase\Plugins\Firebase.App.dll" />
     <None Include="Assets\Other\TextMesh Pro\Examples &amp; Extras\Fonts\Anton OFL.txt" />
-    <None Include="Assets\GoogleMobileAds\GoogleMobileAds.iOS.dll" />
     <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders Generated\Examples\Default\HSV.shader" />
     <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders Generated\Examples\Default\Old School.shader" />
     <None Include="Assets\Other\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
@@ -287,16 +283,14 @@
     <None Include="Assets\JMO Assets\Toony Colors Pro\Shader Templates 2\Modules\Module_NdotL Stylization.txt" />
     <None Include="Assets\JMO Assets\Toony Colors Pro\Shader Templates 2\Modules\Module_Water.txt" />
     <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders Generated\Examples\Default\Comic Book.shader" />
-    <None Include="Assets\GoogleMobileAds\GoogleMobileAds.Core.dll" />
     <None Include="Assets\JMO Assets\Toony Colors Pro\Shader Templates 2\Modules\Module_CurvedWorld.txt" />
-    <None Include="Assets\Original Assets\Scenes\README.txt" />
+    <None Include="Assets\Game Assets\Scenes\README.txt" />
     <None Include="Assets\Firebase\m2repository\com\google\firebase\firebase-app-unity\maven-metadata.xml" />
     <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders\Standard PBS\TCP2_PBS_Core.cginc" />
     <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders\Legacy\Variants Base\TCP2_Mobile_Specular.shader" />
     <None Include="Assets\JMO Assets\Toony Colors Pro\Shader Templates 2\Modules\Module_Wind.txt" />
     <None Include="Assets\JMO Assets\Toony Colors Pro\Shader Templates\TCP2_ShaderTemplate_SurfacePBS.txt" />
     <None Include="Assets\JMO Assets\Toony Colors Pro\!ToonyColorsPro Readme.txt" />
-    <None Include="Assets\GoogleMobileAds\link.xml" />
     <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders\Legacy\Variants Base\TCP2_Desktop_Specular_OutlineBlending.shader" />
     <None Include="Assets\JMO Assets\Toony Colors Pro\Shader Templates 2\Modules\Module_Dithering.txt" />
     <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders\Legacy\Variants Base\TCP2_Desktop_Outline.shader" />
@@ -318,12 +312,10 @@
     <None Include="Assets\Other\TextMesh Pro\Shaders\TMP_SDF.shader" />
     <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders Generated\Examples\PBS\Blended Outline.shader" />
     <None Include="Assets\Other\Demigiant\Demigiant\DOTween\DOTween.dll" />
-    <None Include="Assets\GoogleMobileAds\GoogleMobileAds.Ump.Unity.dll" />
     <None Include="Assets\Other\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
     <None Include="Assets\Other\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
     <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders\Standard PBS\TCP2_Standard PBS.shader" />
     <None Include="Assets\JMO Assets\Toony Colors Pro\Shader Templates 2\Modules\Module_VertExmotion.txt" />
-    <None Include="Assets\GoogleMobileAds\GoogleMobileAds.Ump.dll" />
     <None Include="Assets\Firebase\m2repository\com\google\firebase\firebase-analytics-unity\maven-metadata.xml" />
     <None Include="Assets\Other\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
     <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders\Legacy\Include\TCP2_Outline.shader" />
@@ -343,7 +335,6 @@
     <None Include="Assets\Other\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
     <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders\Standard PBS\TCP2_Standard PBS Outline Blended.shader" />
     <None Include="Assets\JMO Assets\Toony Colors Pro\Shader Templates 2\Modules\Module_Sketch.txt" />
-    <None Include="Assets\GoogleMobileAds\GoogleMobileAds.Unity.dll" />
     <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders\Legacy\Include\TCP2_Outline_SM2.shader" />
     <None Include="Assets\JMO Assets\Toony Colors Pro\Shader Templates 2\Modules\Module_Aura2.txt" />
     <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders Generated\Examples\Water\Reflection.shader" />
@@ -358,7 +349,6 @@
     <None Include="Assets\JMO Assets\Toony Colors Pro\Shader Templates\TCP2_ShaderTemplate_PBS.txt" />
     <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders Generated\Examples\Default\Sketch.shader" />
     <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders\Standard PBS\TCP2_PBS_ShadowMeta.shader" />
-    <None Include="Assets\GoogleMobileAds\GoogleMobileAds_version-7.4.1_manifest.txt" />
     <None Include="Assets\Other\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
     <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders\Legacy\TCP2_Mobile.shader" />
     <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders Generated\Examples\Water\Lava Cartoon.shader" />
@@ -367,7 +357,6 @@
     <None Include="Assets\JMO Assets\Toony Colors Pro\Shader Templates 2\Modules\Module_HSV.txt" />
     <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders\Standard PBS\TCP2_Standard PBS (Specular).shader" />
     <None Include="Assets\Firebase\Plugins\Firebase.Platform.dll" />
-    <None Include="Assets\GoogleMobileAds\GoogleMobileAds.Android.dll" />
     <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders Generated\Examples\SG2\Water.shader" />
     <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders\Legacy\Variants Base\TCP2_Mobile_Outline.shader" />
     <None Include="Assets\Other\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
@@ -391,7 +380,6 @@
     <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders Generated\Examples\Water\Poison.shader" />
     <None Include="Assets\JMO Assets\Toony Colors Pro\Shader Templates 2\Modules\Module_Specular.txt" />
     <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders Generated\Examples\SG2\Detail Texture.shader" />
-    <None Include="Assets\GoogleMobileAds\GoogleMobileAds.Ump.Android.dll" />
     <None Include="Assets\Other\TextMesh Pro\Shaders\TMP_Sprite.shader" />
     <None Include="Assets\Other\TextMesh Pro\Examples &amp; Extras\Fonts\Bangers - OFL.txt" />
     <None Include="Assets\JMO Assets\Toony Colors Pro\Shader Templates 2\Modules\Module_Reflection.txt" />
@@ -733,14 +721,6 @@
       <HintPath>Assets\Firebase\Plugins\Firebase.Analytics.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="GoogleMobileAds.Common">
-      <HintPath>Assets\GoogleMobileAds\GoogleMobileAds.Common.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="GoogleMobileAds">
-      <HintPath>Assets\GoogleMobileAds\GoogleMobileAds.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="Firebase.App">
       <HintPath>Assets\Firebase\Plugins\Firebase.App.dll</HintPath>
       <Private>False</Private>
@@ -753,28 +733,12 @@
       <HintPath>Assets\Firebase\Plugins\Firebase.TaskExtension.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="GoogleMobileAds.Core">
-      <HintPath>Assets\GoogleMobileAds\GoogleMobileAds.Core.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="DOTween">
       <HintPath>Assets\Other\Demigiant\Demigiant\DOTween\DOTween.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="GoogleMobileAds.Ump.Unity">
-      <HintPath>Assets\GoogleMobileAds\GoogleMobileAds.Ump.Unity.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="GoogleMobileAds.Ump">
-      <HintPath>Assets\GoogleMobileAds\GoogleMobileAds.Ump.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="DOTweenPro">
       <HintPath>Assets\Other\Demigiant\Demigiant\DOTweenPro\DOTweenPro.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="GoogleMobileAds.Unity">
-      <HintPath>Assets\GoogleMobileAds\GoogleMobileAds.Unity.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Firebase.Platform">
@@ -1350,10 +1314,6 @@
     <ProjectReference Include="ToonyColorsPro2.Demo.csproj">
       <Project>{95AC92B9-FBF8-DBFA-D534-F53DFB675FE3}</Project>
       <Name>ToonyColorsPro2.Demo</Name>
-    </ProjectReference>
-    <ProjectReference Include="GoogleMobileAds.Editor.csproj">
-      <Project>{F337B385-5DAD-343D-0A62-A2EBF429DE7B}</Project>
-      <Name>GoogleMobileAds.Editor</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

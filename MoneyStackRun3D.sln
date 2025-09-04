@@ -11,8 +11,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToonyColorsPro2.Demo", "Too
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToonyColorsPro.Runtime", "ToonyColorsPro.Runtime.csproj", "{2A7E17E3-DB41-FC4F-4DB0-8A6DCC644336}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleMobileAds.Editor", "GoogleMobileAds.Editor.csproj", "{F337B385-5DAD-343D-0A62-A2EBF429DE7B}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,10 +37,6 @@ Global
 		{2A7E17E3-DB41-FC4F-4DB0-8A6DCC644336}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A7E17E3-DB41-FC4F-4DB0-8A6DCC644336}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A7E17E3-DB41-FC4F-4DB0-8A6DCC644336}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F337B385-5DAD-343D-0A62-A2EBF429DE7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F337B385-5DAD-343D-0A62-A2EBF429DE7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F337B385-5DAD-343D-0A62-A2EBF429DE7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F337B385-5DAD-343D-0A62-A2EBF429DE7B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -76,8 +76,8 @@
     <Compile Include="Assets\Other\Dreamteck\Splines\Editor\Tools\Explorer.cs" />
     <Compile Include="Assets\Other\Dreamteck\Splines\Editor\DSSplineDrawer.cs" />
     <Compile Include="Assets\Other\Dreamteck\Splines\Components\Editor\SetDistanceWindow.cs" />
-    <Compile Include="Assets\Other\Dreamteck\Splines\Editor\Tools\BakeTool.cs" />
     <Compile Include="Assets\Other\Dreamteck\Splines\Components\Editor\SplineTracerEditor.cs" />
+    <Compile Include="Assets\Other\Dreamteck\Splines\Editor\Tools\BakeTool.cs" />
     <Compile Include="Assets\Other\Dreamteck\Splines\Editor\Primitives\LineEditor.cs" />
     <Compile Include="Assets\Other\Dreamteck\Splines\Editor\Primitives\EllipseEditor.cs" />
     <Compile Include="Assets\Other\Dreamteck\Splines\Components\Editor\ObjectBenderEditor.cs" />
@@ -519,14 +519,6 @@
       <HintPath>Assets\Firebase\Plugins\Firebase.Analytics.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="GoogleMobileAds.Common">
-      <HintPath>Assets\GoogleMobileAds\GoogleMobileAds.Common.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="GoogleMobileAds">
-      <HintPath>Assets\GoogleMobileAds\GoogleMobileAds.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="Firebase.App">
       <HintPath>Assets\Firebase\Plugins\Firebase.App.dll</HintPath>
       <Private>False</Private>
@@ -563,10 +555,6 @@
       <HintPath>Assets\Firebase\Plugins\Firebase.TaskExtension.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="GoogleMobileAds.Core">
-      <HintPath>Assets\GoogleMobileAds\GoogleMobileAds.Core.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="DOTweenProEditor">
       <HintPath>Assets\Other\Demigiant\Demigiant\DOTweenPro\Editor\DOTweenProEditor.dll</HintPath>
       <Private>False</Private>
@@ -579,20 +567,8 @@
       <HintPath>Assets\Other\Demigiant\Demigiant\DOTween\DOTween.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="GoogleMobileAds.Ump.Unity">
-      <HintPath>Assets\GoogleMobileAds\GoogleMobileAds.Ump.Unity.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="GoogleMobileAds.Ump">
-      <HintPath>Assets\GoogleMobileAds\GoogleMobileAds.Ump.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="DOTweenPro">
       <HintPath>Assets\Other\Demigiant\Demigiant\DOTweenPro\DOTweenPro.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="GoogleMobileAds.Unity">
-      <HintPath>Assets\GoogleMobileAds\GoogleMobileAds.Unity.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Google.IOSResolver">
@@ -1212,10 +1188,6 @@
     <ProjectReference Include="ToonyColorsPro2.Demo.csproj">
       <Project>{95AC92B9-FBF8-DBFA-D534-F53DFB675FE3}</Project>
       <Name>ToonyColorsPro2.Demo</Name>
-    </ProjectReference>
-    <ProjectReference Include="GoogleMobileAds.Editor.csproj">
-      <Project>{F337B385-5DAD-343D-0A62-A2EBF429DE7B}</Project>
-      <Name>GoogleMobileAds.Editor</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

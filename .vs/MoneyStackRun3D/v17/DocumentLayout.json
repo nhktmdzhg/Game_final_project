@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "E:\\Games\\MoneyStackRun3D\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F2832618-775E-C0F7-23AA-598AFB582538}|Assembly-CSharp.csproj|e:\\games\\moneystackrun3d\\assets\\original assets\\scripts\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2832618-775E-C0F7-23AA-598AFB582538}|Assembly-CSharp.csproj|solutionrelative:assets\\original assets\\scripts\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F2832618-775E-C0F7-23AA-598AFB582538}|Assembly-CSharp.csproj|e:\\games\\moneystackrun3d\\assets\\game assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2832618-775E-C0F7-23AA-598AFB582538}|Assembly-CSharp.csproj|solutionrelative:assets\\game assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2832618-775E-C0F7-23AA-598AFB582538}|Assembly-CSharp.csproj|E:\\Games\\MoneyStackRun3D\\assets\\adsmanager\\script\\admobmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2832618-775E-C0F7-23AA-598AFB582538}|Assembly-CSharp.csproj|solutionrelative:assets\\adsmanager\\script\\admobmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F2832618-775E-C0F7-23AA-598AFB582538}|Assembly-CSharp.csproj|e:\\games\\moneystackrun3d\\assets\\game assets\\scripts\\stackincrease.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2832618-775E-C0F7-23AA-598AFB582538}|Assembly-CSharp.csproj|solutionrelative:assets\\game assets\\scripts\\stackincrease.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2832618-775E-C0F7-23AA-598AFB582538}|Assembly-CSharp.csproj|E:\\Games\\MoneyStackRun3D\\assets\\game assets\\scripts\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2832618-775E-C0F7-23AA-598AFB582538}|Assembly-CSharp.csproj|solutionrelative:assets\\game assets\\scripts\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2832618-775E-C0F7-23AA-598AFB582538}|Assembly-CSharp.csproj|E:\\Games\\MoneyStackRun3D\\assets\\game assets\\scenes\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F2832618-775E-C0F7-23AA-598AFB582538}|Assembly-CSharp.csproj|solutionrelative:assets\\game assets\\scenes\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,31 +26,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AdmobManager.cs",
-              "DocumentMoniker": "E:\\Games\\MoneyStackRun3D\\Assets\\AdsManager\\Script\\AdmobManager.cs",
-              "RelativeDocumentMoniker": "Assets\\AdsManager\\Script\\AdmobManager.cs",
-              "ToolTip": "E:\\Games\\MoneyStackRun3D\\Assets\\AdsManager\\Script\\AdmobManager.cs",
-              "RelativeToolTip": "Assets\\AdsManager\\Script\\AdmobManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Title": "StackIncrease.cs",
+              "DocumentMoniker": "E:\\Games\\MoneyStackRun3D\\Assets\\Game Assets\\Scripts\\StackIncrease.cs",
+              "RelativeDocumentMoniker": "Assets\\Game Assets\\Scripts\\StackIncrease.cs",
+              "ToolTip": "E:\\Games\\MoneyStackRun3D\\Assets\\Game Assets\\Scripts\\StackIncrease.cs",
+              "RelativeToolTip": "Assets\\Game Assets\\Scripts\\StackIncrease.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAswEYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T18:00:05.654Z"
+              "WhenOpened": "2025-09-04T17:18:29.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "README.txt",
+              "DocumentMoniker": "E:\\Games\\MoneyStackRun3D\\Assets\\Game Assets\\Scenes\\README.txt",
+              "RelativeDocumentMoniker": "Assets\\Game Assets\\Scenes\\README.txt",
+              "ToolTip": "E:\\Games\\MoneyStackRun3D\\Assets\\Game Assets\\Scenes\\README.txt",
+              "RelativeToolTip": "Assets\\Game Assets\\Scenes\\README.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-08-31T12:04:47.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuManager.cs",
+              "DocumentMoniker": "E:\\Games\\MoneyStackRun3D\\Assets\\Game Assets\\Scripts\\MenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Game Assets\\Scripts\\MenuManager.cs",
+              "ToolTip": "E:\\Games\\MoneyStackRun3D\\Assets\\Game Assets\\Scripts\\MenuManager.cs",
+              "RelativeToolTip": "Assets\\Game Assets\\Scripts\\MenuManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T06:29:35.562Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MenuManager.cs",
-              "DocumentMoniker": "E:\\Games\\MoneyStackRun3D\\Assets\\Original Assets\\Scripts\\MenuManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Original Assets\\Scripts\\MenuManager.cs",
-              "ToolTip": "E:\\Games\\MoneyStackRun3D\\Assets\\Original Assets\\Scripts\\MenuManager.cs",
-              "RelativeToolTip": "Assets\\Original Assets\\Scripts\\MenuManager.cs",
-              "ViewState": "AgIAAHwAAAAAAAAAAAAQwIUAAAAJAAAAAAAAAA==",
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "E:\\Games\\MoneyStackRun3D\\Assets\\Game Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Game Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "E:\\Games\\MoneyStackRun3D\\Assets\\Game Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Game Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAYwHAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T16:13:36.895Z",
+              "WhenOpened": "2025-08-31T03:41:57.721Z",
               "EditorCaption": ""
             }
           ]

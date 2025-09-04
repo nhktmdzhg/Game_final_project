@@ -304,15 +304,7 @@
         296,
         297,
         298,
-        299,
-        300,
-        301,
-        302,
-        303,
-        304,
-        305,
-        306,
-        307
+        299
       ],
       "OverwriteOutputs": false,
       "DebugActionIndex": 0
@@ -827,18 +819,24 @@
         113,
         114,
         121,
-        182,
-        201,
-        202,
-        209,
-        216,
-        229,
-        236,
-        243,
-        244,
-        245,
-        246,
-        247,
+        176,
+        195,
+        196,
+        203,
+        210,
+        223,
+        230,
+        237,
+        238,
+        239,
+        240,
+        241,
+        250,
+        251,
+        252,
+        253,
+        254,
+        255,
         256,
         257,
         258,
@@ -880,15 +878,7 @@
         294,
         295,
         296,
-        297,
-        298,
-        299,
-        300,
-        301,
-        302,
-        303,
-        304,
-        305
+        297
       ],
       "OverwriteOutputs": false,
       "DebugActionIndex": 6
@@ -2372,7 +2362,7 @@
       "DisplayName": "Writing UnityEngine.UI.rsp",
       "ActionType": "WriteFile",
       "PayloadOffset": 47205,
-      "PayloadLength": 34387,
+      "PayloadLength": 34067,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
@@ -2384,7 +2374,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.rsp2",
       "DisplayName": "Writing UnityEngine.UI.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 81678,
+      "PayloadOffset": 81358,
       "PayloadLength": 37,
       "PayloadDebugContentSnippet": "/pathmap:\"E:\\Games\\MoneyStackR",
       "Inputs": [],
@@ -2409,12 +2399,6 @@
         "Assets/Firebase/Plugins/Firebase.Platform.dll",
         "Assets/Firebase/Plugins/Firebase.TaskExtension.dll",
         "Assets/Firebase/Plugins/Google.MiniJson.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Common.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Core.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Ump.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Ump.Unity.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Unity.dll",
         "Assets/Other/Demigiant/Demigiant/DemiLib/Core/DemiLib.dll",
         "Assets/Other/Demigiant/Demigiant/DemiLib/Core/Editor/DemiEditor.dll",
         "Assets/Other/Demigiant/Demigiant/DOTween/DOTween.dll",
@@ -2783,7 +2767,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEngine.UI.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 81810,
+      "PayloadOffset": 81490,
       "PayloadLength": 7528,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -2988,7 +2972,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.UnityAdditionalFile.txt",
       "DisplayName": "Writing UnityEditor.TestRunner.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 89451,
+      "PayloadOffset": 89131,
       "PayloadLength": 24,
       "PayloadDebugContentSnippet": "E:\\Games\\MoneyStackRun3D",
       "Inputs": [],
@@ -3001,7 +2985,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.rsp",
       "DisplayName": "Writing UnityEditor.TestRunner.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 89568,
+      "PayloadOffset": 89248,
       "PayloadLength": 45138,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -3014,7 +2998,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.rsp2",
       "DisplayName": "Writing UnityEditor.TestRunner.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 134800,
+      "PayloadOffset": 134480,
       "PayloadLength": 37,
       "PayloadDebugContentSnippet": "/pathmap:\"E:\\Games\\MoneyStackR",
       "Inputs": [],
@@ -3474,7 +3458,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEditor.TestRunner.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 134940,
+      "PayloadOffset": 134620,
       "PayloadLength": 7521,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -3679,7 +3663,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.UnityAdditionalFile.txt",
       "DisplayName": "Writing UnityEditor.UI.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 142566,
+      "PayloadOffset": 142246,
       "PayloadLength": 24,
       "PayloadDebugContentSnippet": "E:\\Games\\MoneyStackRun3D",
       "Inputs": [],
@@ -3692,8 +3676,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.rsp",
       "DisplayName": "Writing UnityEditor.UI.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 142675,
-      "PayloadLength": 31429,
+      "PayloadOffset": 142355,
+      "PayloadLength": 31109,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
@@ -3705,7 +3689,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.rsp2",
       "DisplayName": "Writing UnityEditor.UI.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 174190,
+      "PayloadOffset": 173550,
       "PayloadLength": 37,
       "PayloadDebugContentSnippet": "/pathmap:\"E:\\Games\\MoneyStackR",
       "Inputs": [],
@@ -3730,12 +3714,6 @@
         "Assets/Firebase/Plugins/Firebase.Platform.dll",
         "Assets/Firebase/Plugins/Firebase.TaskExtension.dll",
         "Assets/Firebase/Plugins/Google.MiniJson.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Common.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Core.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Ump.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Ump.Unity.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Unity.dll",
         "Assets/Other/Demigiant/Demigiant/DemiLib/Core/DemiLib.dll",
         "Assets/Other/Demigiant/Demigiant/DemiLib/Core/Editor/DemiEditor.dll",
         "Assets/Other/Demigiant/Demigiant/DOTween/DOTween.dll",
@@ -4073,7 +4051,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEditor.UI.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 174322,
+      "PayloadOffset": 173682,
       "PayloadLength": 7854,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -4283,603 +4261,43 @@
       "DebugActionIndex": 116
     },
     {
-      "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/GoogleMobileAds.Editor.UnityAdditionalFile.txt",
-      "DisplayName": "Writing GoogleMobileAds.Editor.UnityAdditionalFile.txt",
-      "ActionType": "WriteFile",
-      "PayloadOffset": 182289,
-      "PayloadLength": 24,
-      "PayloadDebugContentSnippet": "E:\\Games\\MoneyStackRun3D",
-      "Inputs": [],
-      "Outputs": [
-        "Library/Bee/artifacts/1900b0aE.dag/GoogleMobileAds.Editor.UnityAdditionalFile.txt"
-      ],
-      "DebugActionIndex": 117
-    },
-    {
-      "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/GoogleMobileAds.Editor.rsp",
-      "DisplayName": "Writing GoogleMobileAds.Editor.rsp",
-      "ActionType": "WriteFile",
-      "PayloadOffset": 182406,
-      "PayloadLength": 28779,
-      "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
-      "Inputs": [],
-      "Outputs": [
-        "Library/Bee/artifacts/1900b0aE.dag/GoogleMobileAds.Editor.rsp"
-      ],
-      "DebugActionIndex": 118
-    },
-    {
-      "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/GoogleMobileAds.Editor.rsp2",
-      "DisplayName": "Writing GoogleMobileAds.Editor.rsp2",
-      "ActionType": "WriteFile",
-      "PayloadOffset": 211279,
-      "PayloadLength": 0,
-      "PayloadDebugContentSnippet": "",
-      "Inputs": [],
-      "Outputs": [
-        "Library/Bee/artifacts/1900b0aE.dag/GoogleMobileAds.Editor.rsp2"
-      ],
-      "DebugActionIndex": 119
-    },
-    {
-      "Annotation": "Csc Library/Bee/artifacts/1900b0aE.dag/GoogleMobileAds.Editor.dll (+2 others)",
-      "DisplayName": "Csc GoogleMobileAds.Editor",
-      "Action": "\"E:\\Unity\\2022.3.62f1\\Editor\\Data\\NetCoreRuntime\\dotnet.exe\" exec \"E:/Unity/2022.3.62f1/Editor/Data/DotNetSdkRoslyn/csc.dll\" /nostdlib /noconfig /shared \"@Library/Bee/artifacts/1900b0aE.dag/GoogleMobileAds.Editor.rsp\" \"@Library/Bee/artifacts/1900b0aE.dag/GoogleMobileAds.Editor.rsp2\"",
-      "Inputs": [
-        "Assets/ExternalDependencyManager/Editor/1.2.175/Google.IOSResolver.dll",
-        "Assets/ExternalDependencyManager/Editor/1.2.175/Google.JarResolver.dll",
-        "Assets/ExternalDependencyManager/Editor/1.2.175/Google.PackageManagerResolver.dll",
-        "Assets/ExternalDependencyManager/Editor/1.2.175/Google.VersionHandlerImpl.dll",
-        "Assets/ExternalDependencyManager/Editor/Google.VersionHandler.dll",
-        "Assets/Firebase/Editor/Firebase.Editor.dll",
-        "Assets/Firebase/Plugins/Firebase.Analytics.dll",
-        "Assets/Firebase/Plugins/Firebase.App.dll",
-        "Assets/Firebase/Plugins/Firebase.Platform.dll",
-        "Assets/Firebase/Plugins/Firebase.TaskExtension.dll",
-        "Assets/Firebase/Plugins/Google.MiniJson.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Common.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Core.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Ump.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Ump.Unity.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Unity.dll",
-        "Assets/Other/Demigiant/Demigiant/DemiLib/Core/DemiLib.dll",
-        "Assets/Other/Demigiant/Demigiant/DemiLib/Core/Editor/DemiEditor.dll",
-        "Assets/Other/Demigiant/Demigiant/DOTween/DOTween.dll",
-        "Assets/Other/Demigiant/Demigiant/DOTween/Editor/DOTweenEditor.dll",
-        "Assets/Other/Demigiant/Demigiant/DOTweenPro/DOTweenPro.dll",
-        "Assets/Other/Demigiant/Demigiant/DOTweenPro/Editor/DOTweenProEditor.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEditor.Graphs.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEditor.DiagnosticsModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEditor.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEditor.EditorToolbarModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEditor.GraphViewModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEditor.PresetsUIModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEditor.QuickSearchModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEditor.SceneTemplateModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEditor.SceneViewModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEditor.TextCoreFontEngineModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEditor.TextCoreTextEngineModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIBuilderModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIElementsModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIElementsSamplesModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEditor.UnityConnectModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.AccessibilityModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.AndroidJNIModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.AnimationModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.ARModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.AssetBundleModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.AudioModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.ClothModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.ClusterInputModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.ClusterRendererModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.ContentLoadModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.CoreModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.CrashReportingModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.DirectorModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.DSPGraphModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.GameCenterModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.GIModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.GridModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.HotReloadModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.ImageConversionModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.IMGUIModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.InputLegacyModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.InputModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.JSONSerializeModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.LocalizationModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.NVIDIAModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.ParticleSystemModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.PerformanceReportingModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.Physics2DModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.PhysicsModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.ProfilerModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.PropertiesModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.ScreenCaptureModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.SharedInternalsModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.SpriteMaskModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.SpriteShapeModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.StreamingModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.SubstanceModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.SubsystemsModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.TerrainModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.TerrainPhysicsModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.TextCoreFontEngineModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.TextCoreTextEngineModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.TextRenderingModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.TilemapModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.TLSModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.UIElementsModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.UIModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.UmbraModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityAnalyticsCommonModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityAnalyticsModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityConnectModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityCurlModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityTestProtocolModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestAssetBundleModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestAudioModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestTextureModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestWWWModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.VehiclesModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.VFXModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.VideoModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.VirtualTexturingModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.VRModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.WindModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Managed/UnityEngine/UnityEngine.XRModule.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/Microsoft.Win32.Primitives.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/netstandard.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.AppContext.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Buffers.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Collections.Concurrent.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Collections.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Collections.NonGeneric.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Collections.Specialized.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.ComponentModel.Annotations.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.ComponentModel.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.ComponentModel.EventBasedAsync.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.ComponentModel.Primitives.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.ComponentModel.TypeConverter.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Console.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Data.Common.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Diagnostics.Contracts.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Diagnostics.Debug.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Diagnostics.FileVersionInfo.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Diagnostics.Process.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Diagnostics.StackTrace.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Diagnostics.TextWriterTraceListener.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Diagnostics.Tools.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Diagnostics.TraceSource.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Drawing.Primitives.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Dynamic.Runtime.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Globalization.Calendars.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Globalization.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Globalization.Extensions.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.IO.Compression.ZipFile.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.IO.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.IO.FileSystem.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.IO.FileSystem.DriveInfo.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.IO.FileSystem.Primitives.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.IO.FileSystem.Watcher.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.IO.IsolatedStorage.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.IO.MemoryMappedFiles.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.IO.Pipes.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.IO.UnmanagedMemoryStream.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Linq.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Linq.Expressions.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Linq.Parallel.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Linq.Queryable.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Memory.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Net.Http.Rtc.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Net.NameResolution.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Net.NetworkInformation.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Net.Ping.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Net.Primitives.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Net.Requests.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Net.Security.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Net.Sockets.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Net.WebHeaderCollection.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Net.WebSockets.Client.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Net.WebSockets.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.ObjectModel.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Reflection.DispatchProxy.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Reflection.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Reflection.Emit.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Reflection.Emit.ILGeneration.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Reflection.Emit.Lightweight.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Reflection.Extensions.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Reflection.Primitives.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Resources.Reader.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Resources.ResourceManager.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Resources.Writer.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.CompilerServices.VisualC.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.Extensions.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.Handles.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.InteropServices.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.InteropServices.RuntimeInformation.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.InteropServices.WindowsRuntime.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.Numerics.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.Serialization.Formatters.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.Serialization.Json.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.Serialization.Primitives.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.Serialization.Xml.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Security.Claims.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Security.Cryptography.Algorithms.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Security.Cryptography.Csp.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Security.Cryptography.Encoding.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Security.Cryptography.Primitives.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Security.Cryptography.X509Certificates.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Security.Principal.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Security.SecureString.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.ServiceModel.Duplex.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.ServiceModel.Http.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.ServiceModel.NetTcp.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.ServiceModel.Primitives.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.ServiceModel.Security.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Text.Encoding.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Text.Encoding.Extensions.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Text.RegularExpressions.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Threading.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Threading.Overlapped.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Threading.Tasks.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Threading.Tasks.Extensions.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Threading.Tasks.Parallel.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Threading.Thread.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Threading.ThreadPool.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Threading.Timer.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.ValueTuple.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Xml.ReaderWriter.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Xml.XDocument.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Xml.XmlDocument.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Xml.XmlSerializer.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Xml.XPath.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Xml.XPath.XDocument.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Microsoft.CSharp.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/mscorlib.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.ComponentModel.Composition.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Core.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Data.DataSetExtensions.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Data.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Drawing.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.IO.Compression.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.IO.Compression.FileSystem.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Net.Http.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Numerics.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Numerics.Vectors.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Runtime.Serialization.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Transactions.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Xml.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Xml.Linq.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.7.1/Lib/Editor/log4netPlastic.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.7.1/Lib/Editor/Unity.Plastic.Antlr3.Runtime.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.7.1/Lib/Editor/Unity.Plastic.Newtonsoft.Json.dll",
-        "Library/PackageCache/com.unity.collab-proxy@2.7.1/Lib/Editor/unityplastic.dll",
-        "Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll",
-        "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.ref.dll",
-        "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll",
-        "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.ref.dll",
-        "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll",
-        "Assets/GoogleMobileAds/Editor/BuildPreProcessor.cs",
-        "Assets/GoogleMobileAds/Editor/GoogleMobileAdsSettings.cs",
-        "Assets/GoogleMobileAds/Editor/GoogleMobileAdsSettingsEditor.cs",
-        "Assets/GoogleMobileAds/Editor/ManifestProcessor.cs",
-        "Assets/GoogleMobileAds/Editor/PListProcessor.cs",
-        "E:/Unity/2022.3.62f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll",
-        "Library/Bee/artifacts/1900b0aE.dag/GoogleMobileAds.Editor.rsp"
-      ],
-      "Outputs": [
-        "Library/Bee/artifacts/1900b0aE.dag/GoogleMobileAds.Editor.dll",
-        "Library/Bee/artifacts/1900b0aE.dag/GoogleMobileAds.Editor.pdb",
-        "Library/Bee/artifacts/1900b0aE.dag/GoogleMobileAds.Editor.ref.dll"
-      ],
-      "ToBuildDependencies": [
-        4,
-        96,
-        104,
-        112,
-        117,
-        118,
-        119,
-        123
-      ],
-      "ToUseDependencies": [
-        117,
-        119
-      ],
-      "FrontendResponseFiles": [
-        "Library/Bee/artifacts/1900b0aE.dag/GoogleMobileAds.Editor.rsp"
-      ],
-      "AllowUnexpectedOutput": true,
-      "Env": [
-        {
-          "Key": "DOTNET_MULTILEVEL_LOOKUP",
-          "Value": "0"
-        }
-      ],
-      "DebugActionIndex": 120
-    },
-    {
-      "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEditor.UI.ref.dll_4C98D3F7040CD4F5.mvfrm",
-      "DisplayName": "MovedFromExtractor UnityEditor.UI.ref.dll_4C98D3F7040CD4F5",
-      "Action": "\"E:\\Unity\\2022.3.62f1\\Editor\\Data\\Tools\\netcorerun\\netcorerun.exe\" \"E:/Unity/2022.3.62f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library\\Bee\\artifacts\\mvdfrm\\UnityEditor.UI.ref.dll_4C98D3F7040CD4F5.mvfrm\" \"Library\\Bee\\artifacts\\1900b0aE.dag\\UnityEditor.UI.ref.dll\"",
-      "Inputs": [
-        "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll",
-        "E:/Unity/2022.3.62f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe"
-      ],
-      "Outputs": [
-        "Library/Bee/artifacts/mvdfrm/UnityEditor.UI.ref.dll_4C98D3F7040CD4F5.mvfrm"
-      ],
-      "ToBuildDependencies": [
-        112
-      ],
-      "AllowUnexpectedOutput": true,
-      "Env": [],
-      "DebugActionIndex": 121
-    },
-    {
-      "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/GoogleMobileAds.Editor.dll.mvfrm.rsp",
-      "DisplayName": "Writing GoogleMobileAds.Editor.dll.mvfrm.rsp",
-      "ActionType": "WriteFile",
-      "PayloadOffset": 211382,
-      "PayloadLength": 7930,
-      "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
-      "Inputs": [],
-      "Outputs": [
-        "Library/Bee/artifacts/1900b0aE.dag/GoogleMobileAds.Editor.dll.mvfrm.rsp"
-      ],
-      "DebugActionIndex": 122
-    },
-    {
-      "Annotation": "MovedFromExtractorCombine Library/Bee/artifacts/1900b0aE.dag/GoogleMobileAds.Editor.dll.mvfrm",
-      "DisplayName": "MovedFromExtractorCombine GoogleMobileAds.Editor.dll",
-      "Action": "\"E:\\Unity\\2022.3.62f1\\Editor\\Data\\Tools\\netcorerun\\netcorerun.exe\" \"E:/Unity/2022.3.62f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library/Bee/artifacts/1900b0aE.dag/GoogleMobileAds.Editor.dll.mvfrm\" \"@Library/Bee/artifacts/1900b0aE.dag/GoogleMobileAds.Editor.dll.mvfrm.rsp\"",
-      "Inputs": [
-        "Library/Bee/artifacts/mvdfrm/UnityEditor.TestRunner.ref.dll_193EC4CE382CBFB3.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEditor.UI.ref.dll_4C98D3F7040CD4F5.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.TestRunner.ref.dll_E55D0F7C63F01D9E.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.UI.ref.dll_08FEAA520A2EFD60.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEditor.Graphs.dll_CA46702F6B80EB7B.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEditor.CoreModule.dll_E85A11100FB7EA49.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEditor.DeviceSimulatorModule.dll_8DF337B97C4D14C8.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEditor.DiagnosticsModule.dll_5DD32B1FD35ED516.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEditor.dll_A411D154D4444CFC.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEditor.EditorToolbarModule.dll_436735784AFA7998.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEditor.GraphViewModule.dll_9A51197FB5B5322D.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEditor.PresetsUIModule.dll_55B75261B80D8A32.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEditor.QuickSearchModule.dll_E8E2AC2D2C35D16F.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEditor.SceneTemplateModule.dll_6706A63649E723D0.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEditor.SceneViewModule.dll_D900FC87AAD7FF3B.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEditor.TextCoreFontEngineModule.dll_CF4448AB20BBB5A7.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEditor.TextCoreTextEngineModule.dll_172C7F1CB03F6EC5.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEditor.UIBuilderModule.dll_EED9C69C286DAB61.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEditor.UIElementsModule.dll_E39ECCD9BF66DEE5.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEditor.UIElementsSamplesModule.dll_CC7D20E5428B17D8.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEditor.UnityConnectModule.dll_87CACC9870D0BD7F.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.AccessibilityModule.dll_99AC11CD4A5D4B6D.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.AIModule.dll_8EB0DADD53F7C97D.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.AndroidJNIModule.dll_61E7B5AD08864DBB.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.AnimationModule.dll_68D695A8901206D3.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.ARModule.dll_48239FE0B1152846.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.AssetBundleModule.dll_2CCBDF1E8E9C8661.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.AudioModule.dll_C377F194F73CFB05.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.ClothModule.dll_2A604E8FD159D9E9.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.ClusterInputModule.dll_076741AE22589045.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.ClusterRendererModule.dll_939FFA2AEC08224C.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.ContentLoadModule.dll_C5E2385F5D1F2E4E.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.CoreModule.dll_0B7AE462B7BD5574.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.CrashReportingModule.dll_396D0690BAC1D98C.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.DirectorModule.dll_96E1A73BC0976091.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.dll_D6B6182D32B7D9E1.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.DSPGraphModule.dll_9C3308A532F831B2.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.GameCenterModule.dll_8C34FFC7CEC73EAC.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.GIModule.dll_26ED23EAEFA6B197.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.GridModule.dll_E8EC0050D011EB6B.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.HotReloadModule.dll_EA1F53AE6B452255.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.ImageConversionModule.dll_FF91F7DB6E2CDA40.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.IMGUIModule.dll_FBD790FBBD6E8EE6.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.InputLegacyModule.dll_BE10FA3D268E3C52.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.InputModule.dll_29EDB9456D751FA9.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.JSONSerializeModule.dll_F9C39B094998ABF7.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.LocalizationModule.dll_45B40C00B9D4833E.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.NVIDIAModule.dll_3B51707D5A048060.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.ParticleSystemModule.dll_8C7F4FDD28D3651A.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.PerformanceReportingModule.dll_856CBA94579F5E33.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.Physics2DModule.dll_B57C8599310EFE68.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.PhysicsModule.dll_F3CE0DDC64216876.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.ProfilerModule.dll_C927E07259F0E79E.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.PropertiesModule.dll_B9703F0641B2A2E8.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll_7C6F8ABAA75D3F31.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.ScreenCaptureModule.dll_13AB488E5E04D859.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.SharedInternalsModule.dll_83A336B0E55AD590.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.SpriteMaskModule.dll_75617257F036D426.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.SpriteShapeModule.dll_462D0C79443EBE6B.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.StreamingModule.dll_1D6B82F8DF99BE11.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.SubstanceModule.dll_FA1697422AECBC1F.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.SubsystemsModule.dll_E00ED8B9BE7EBC39.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.TerrainModule.dll_0E14894B39DFB164.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.TerrainPhysicsModule.dll_8CF9F8B042165FA7.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.TextCoreFontEngineModule.dll_4DA3C3FE33B97472.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.TextCoreTextEngineModule.dll_958BFA6FC33D2D90.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.TextRenderingModule.dll_3CEABA99153C584E.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.TilemapModule.dll_AD10F0CC519C926D.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.TLSModule.dll_50AD8DBC82B3ABCA.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.UIElementsModule.dll_E44D3A21C1AAF830.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.UIModule.dll_8A24790AB03ECF29.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.UmbraModule.dll_3E4C9DAD8463A678.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.UnityAnalyticsCommonModule.dll_20AB77D87187FC91.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.UnityAnalyticsModule.dll_AC1EC0A6D4FAB716.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.UnityConnectModule.dll_752A50A76B58BE2A.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.UnityCurlModule.dll_9BF336DA0025F8C0.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.UnityTestProtocolModule.dll_883FD6D79C866D2E.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.UnityWebRequestAssetBundleModule.dll_98377A7743B33A67.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.UnityWebRequestAudioModule.dll_FD690E72DE0A28CB.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.UnityWebRequestModule.dll_1130FF85792174BF.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.UnityWebRequestTextureModule.dll_EDCCA32A7F959600.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.UnityWebRequestWWWModule.dll_604E3FCBB2FCE9FC.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.VehiclesModule.dll_0EA4A0BB3AC1302C.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.VFXModule.dll_D18C262B59211537.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.VideoModule.dll_E88175FFB9CF16AA.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.VirtualTexturingModule.dll_A70B33BAB8671712.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.VRModule.dll_DCF69F9051F954A1.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.WindModule.dll_81C9BF8B48F3D3DD.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEngine.XRModule.dll_0FB56294DB33A1FF.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/UnityEditor.WindowsStandalone.Extensions.dll_F92CFA047710ACE7.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/Unity.Plastic.Antlr3.Runtime.dll_E09CC82FEF75E5B7.mvfrm",
-        "Library/Bee/artifacts/mvdfrm/Unity.Plastic.Newtonsoft.Json.dll_9148C07F9746948E.mvfrm",
-        "E:/Unity/2022.3.62f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe",
-        "Library/Bee/artifacts/1900b0aE.dag/GoogleMobileAds.Editor.dll.mvfrm.rsp"
-      ],
-      "Outputs": [
-        "Library/Bee/artifacts/1900b0aE.dag/GoogleMobileAds.Editor.dll.mvfrm"
-      ],
-      "ToBuildDependencies": [
-        5,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15,
-        16,
-        17,
-        18,
-        19,
-        20,
-        21,
-        22,
-        23,
-        24,
-        25,
-        26,
-        27,
-        28,
-        29,
-        30,
-        31,
-        32,
-        33,
-        34,
-        35,
-        36,
-        37,
-        38,
-        39,
-        40,
-        41,
-        42,
-        43,
-        44,
-        45,
-        46,
-        47,
-        48,
-        49,
-        50,
-        51,
-        52,
-        53,
-        54,
-        55,
-        56,
-        57,
-        58,
-        59,
-        60,
-        61,
-        62,
-        63,
-        64,
-        65,
-        66,
-        67,
-        68,
-        69,
-        70,
-        71,
-        72,
-        73,
-        74,
-        75,
-        76,
-        77,
-        78,
-        79,
-        80,
-        81,
-        82,
-        83,
-        84,
-        85,
-        86,
-        87,
-        88,
-        89,
-        90,
-        97,
-        98,
-        105,
-        106,
-        113,
-        114,
-        121,
-        122
-      ],
-      "AllowUnexpectedOutput": true,
-      "Env": [],
-      "DebugActionIndex": 123
-    },
-    {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/ToonyColorsPro.Runtime.UnityAdditionalFile.txt",
       "DisplayName": "Writing ToonyColorsPro.Runtime.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 219425,
+      "PayloadOffset": 181649,
       "PayloadLength": 24,
       "PayloadDebugContentSnippet": "E:\\Games\\MoneyStackRun3D",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/ToonyColorsPro.Runtime.UnityAdditionalFile.txt"
       ],
-      "DebugActionIndex": 124
+      "DebugActionIndex": 117
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/ToonyColorsPro.Runtime.rsp",
       "DisplayName": "Writing ToonyColorsPro.Runtime.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 219542,
-      "PayloadLength": 27753,
+      "PayloadOffset": 181766,
+      "PayloadLength": 27433,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/ToonyColorsPro.Runtime.rsp"
       ],
-      "DebugActionIndex": 125
+      "DebugActionIndex": 118
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/ToonyColorsPro.Runtime.rsp2",
       "DisplayName": "Writing ToonyColorsPro.Runtime.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 247389,
+      "PayloadOffset": 209293,
       "PayloadLength": 0,
       "PayloadDebugContentSnippet": "",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/ToonyColorsPro.Runtime.rsp2"
       ],
-      "DebugActionIndex": 126
+      "DebugActionIndex": 119
     },
     {
       "Annotation": "Csc Library/Bee/artifacts/1900b0aE.dag/ToonyColorsPro.Runtime.dll (+2 others)",
@@ -4897,12 +4315,6 @@
         "Assets/Firebase/Plugins/Firebase.Platform.dll",
         "Assets/Firebase/Plugins/Firebase.TaskExtension.dll",
         "Assets/Firebase/Plugins/Google.MiniJson.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Common.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Core.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Ump.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Ump.Unity.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Unity.dll",
         "Assets/Other/Demigiant/Demigiant/DemiLib/Core/DemiLib.dll",
         "Assets/Other/Demigiant/Demigiant/DemiLib/Core/Editor/DemiEditor.dll",
         "Assets/Other/Demigiant/Demigiant/DOTween/DOTween.dll",
@@ -5140,14 +4552,14 @@
       "ToBuildDependencies": [
         96,
         112,
-        124,
-        125,
-        126,
-        129
+        117,
+        118,
+        119,
+        123
       ],
       "ToUseDependencies": [
-        124,
-        126
+        117,
+        119
       ],
       "FrontendResponseFiles": [
         "Library/Bee/artifacts/1900b0aE.dag/ToonyColorsPro.Runtime.rsp"
@@ -5159,20 +4571,38 @@
           "Value": "0"
         }
       ],
-      "DebugActionIndex": 127
+      "DebugActionIndex": 120
+    },
+    {
+      "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEditor.UI.ref.dll_4C98D3F7040CD4F5.mvfrm",
+      "DisplayName": "MovedFromExtractor UnityEditor.UI.ref.dll_4C98D3F7040CD4F5",
+      "Action": "\"E:\\Unity\\2022.3.62f1\\Editor\\Data\\Tools\\netcorerun\\netcorerun.exe\" \"E:/Unity/2022.3.62f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library\\Bee\\artifacts\\mvdfrm\\UnityEditor.UI.ref.dll_4C98D3F7040CD4F5.mvfrm\" \"Library\\Bee\\artifacts\\1900b0aE.dag\\UnityEditor.UI.ref.dll\"",
+      "Inputs": [
+        "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll",
+        "E:/Unity/2022.3.62f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe"
+      ],
+      "Outputs": [
+        "Library/Bee/artifacts/mvdfrm/UnityEditor.UI.ref.dll_4C98D3F7040CD4F5.mvfrm"
+      ],
+      "ToBuildDependencies": [
+        112
+      ],
+      "AllowUnexpectedOutput": true,
+      "Env": [],
+      "DebugActionIndex": 121
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/ToonyColorsPro.Runtime.dll.mvfrm.rsp",
       "DisplayName": "Writing ToonyColorsPro.Runtime.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 247492,
+      "PayloadOffset": 209396,
       "PayloadLength": 7680,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/ToonyColorsPro.Runtime.dll.mvfrm.rsp"
       ],
-      "DebugActionIndex": 128
+      "DebugActionIndex": 122
     },
     {
       "Annotation": "MovedFromExtractorCombine Library/Bee/artifacts/1900b0aE.dag/ToonyColorsPro.Runtime.dll.mvfrm",
@@ -5364,50 +4794,50 @@
         98,
         114,
         121,
-        128
+        122
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 129
+      "DebugActionIndex": 123
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Editor.ConversionSystem.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.AI.Navigation.Editor.ConversionSystem.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 255306,
+      "PayloadOffset": 217210,
       "PayloadLength": 24,
       "PayloadDebugContentSnippet": "E:\\Games\\MoneyStackRun3D",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Editor.ConversionSystem.UnityAdditionalFile.txt"
       ],
-      "DebugActionIndex": 130
+      "DebugActionIndex": 124
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Editor.ConversionSystem.rsp",
       "DisplayName": "Writing Unity.AI.Navigation.Editor.ConversionSystem.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 255444,
-      "PayloadLength": 29464,
+      "PayloadOffset": 217348,
+      "PayloadLength": 29144,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Editor.ConversionSystem.rsp"
       ],
-      "DebugActionIndex": 131
+      "DebugActionIndex": 125
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Editor.ConversionSystem.rsp2",
       "DisplayName": "Writing Unity.AI.Navigation.Editor.ConversionSystem.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 285023,
+      "PayloadOffset": 246607,
       "PayloadLength": 37,
       "PayloadDebugContentSnippet": "/pathmap:\"E:\\Games\\MoneyStackR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Editor.ConversionSystem.rsp2"
       ],
-      "DebugActionIndex": 132
+      "DebugActionIndex": 126
     },
     {
       "Annotation": "Csc Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Editor.ConversionSystem.dll (+2 others)",
@@ -5425,12 +4855,6 @@
         "Assets/Firebase/Plugins/Firebase.Platform.dll",
         "Assets/Firebase/Plugins/Firebase.TaskExtension.dll",
         "Assets/Firebase/Plugins/Google.MiniJson.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Common.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Core.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Ump.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Ump.Unity.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Unity.dll",
         "Assets/Other/Demigiant/Demigiant/DemiLib/Core/DemiLib.dll",
         "Assets/Other/Demigiant/Demigiant/DemiLib/Core/Editor/DemiEditor.dll",
         "Assets/Other/Demigiant/Demigiant/DOTween/DOTween.dll",
@@ -5680,14 +5104,14 @@
         96,
         104,
         112,
-        130,
-        131,
-        132,
-        135
+        124,
+        125,
+        126,
+        129
       ],
       "ToUseDependencies": [
-        130,
-        132
+        124,
+        126
       ],
       "FrontendResponseFiles": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Editor.ConversionSystem.rsp"
@@ -5700,20 +5124,20 @@
         }
       ],
       "CachingMode": "ByDirectInputs",
-      "DebugActionIndex": 133
+      "DebugActionIndex": 127
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Editor.ConversionSystem.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.AI.Navigation.Editor.ConversionSystem.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 285184,
+      "PayloadOffset": 246768,
       "PayloadLength": 7930,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Editor.ConversionSystem.dll.mvfrm.rsp"
       ],
-      "DebugActionIndex": 134
+      "DebugActionIndex": 128
     },
     {
       "Annotation": "MovedFromExtractorCombine Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Editor.ConversionSystem.dll.mvfrm",
@@ -5911,50 +5335,50 @@
         113,
         114,
         121,
-        134
+        128
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 135
+      "DebugActionIndex": 129
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.AI.Navigation.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 293224,
+      "PayloadOffset": 254808,
       "PayloadLength": 24,
       "PayloadDebugContentSnippet": "E:\\Games\\MoneyStackRun3D",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.UnityAdditionalFile.txt"
       ],
-      "DebugActionIndex": 136
+      "DebugActionIndex": 130
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.rsp",
       "DisplayName": "Writing Unity.AI.Navigation.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 293338,
-      "PayloadLength": 27758,
+      "PayloadOffset": 254922,
+      "PayloadLength": 27438,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.rsp"
       ],
-      "DebugActionIndex": 137
+      "DebugActionIndex": 131
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.rsp2",
       "DisplayName": "Writing Unity.AI.Navigation.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 321187,
+      "PayloadOffset": 282451,
       "PayloadLength": 37,
       "PayloadDebugContentSnippet": "/pathmap:\"E:\\Games\\MoneyStackR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.rsp2"
       ],
-      "DebugActionIndex": 138
+      "DebugActionIndex": 132
     },
     {
       "Annotation": "Csc Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.dll (+2 others)",
@@ -5972,12 +5396,6 @@
         "Assets/Firebase/Plugins/Firebase.Platform.dll",
         "Assets/Firebase/Plugins/Firebase.TaskExtension.dll",
         "Assets/Firebase/Plugins/Google.MiniJson.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Common.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Core.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Ump.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Ump.Unity.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Unity.dll",
         "Assets/Other/Demigiant/Demigiant/DemiLib/Core/DemiLib.dll",
         "Assets/Other/Demigiant/Demigiant/DemiLib/Core/Editor/DemiEditor.dll",
         "Assets/Other/Demigiant/Demigiant/DOTween/DOTween.dll",
@@ -6214,14 +5632,14 @@
       "ToBuildDependencies": [
         96,
         112,
-        136,
-        137,
-        138,
-        141
+        130,
+        131,
+        132,
+        135
       ],
       "ToUseDependencies": [
-        136,
-        138
+        130,
+        132
       ],
       "FrontendResponseFiles": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.rsp"
@@ -6234,20 +5652,20 @@
         }
       ],
       "CachingMode": "ByDirectInputs",
-      "DebugActionIndex": 139
+      "DebugActionIndex": 133
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.AI.Navigation.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 321324,
+      "PayloadOffset": 282588,
       "PayloadLength": 7680,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.dll.mvfrm.rsp"
       ],
-      "DebugActionIndex": 140
+      "DebugActionIndex": 134
     },
     {
       "Annotation": "MovedFromExtractorCombine Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.dll.mvfrm",
@@ -6439,50 +5857,50 @@
         98,
         114,
         121,
-        140
+        134
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 141
+      "DebugActionIndex": 135
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.PlasticSCM.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 329118,
+      "PayloadOffset": 290382,
       "PayloadLength": 24,
       "PayloadDebugContentSnippet": "E:\\Games\\MoneyStackRun3D",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.UnityAdditionalFile.txt"
       ],
-      "DebugActionIndex": 142
+      "DebugActionIndex": 136
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.rsp",
       "DisplayName": "Writing Unity.PlasticSCM.Editor.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 329236,
+      "PayloadOffset": 290500,
       "PayloadLength": 59114,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.rsp"
       ],
-      "DebugActionIndex": 143
+      "DebugActionIndex": 137
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.rsp2",
       "DisplayName": "Writing Unity.PlasticSCM.Editor.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 388445,
+      "PayloadOffset": 349709,
       "PayloadLength": 37,
       "PayloadDebugContentSnippet": "/pathmap:\"E:\\Games\\MoneyStackR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.rsp2"
       ],
-      "DebugActionIndex": 144
+      "DebugActionIndex": 138
     },
     {
       "Annotation": "Csc Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.dll (+2 others)",
@@ -7059,14 +6477,14 @@
         96,
         104,
         112,
-        142,
-        143,
-        144,
-        147
+        136,
+        137,
+        138,
+        141
       ],
       "ToUseDependencies": [
-        142,
-        144
+        136,
+        138
       ],
       "FrontendResponseFiles": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.rsp"
@@ -7079,20 +6497,20 @@
         }
       ],
       "CachingMode": "ByDirectInputs",
-      "DebugActionIndex": 145
+      "DebugActionIndex": 139
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.PlasticSCM.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 388586,
+      "PayloadOffset": 349850,
       "PayloadLength": 7844,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.dll.mvfrm.rsp"
       ],
-      "DebugActionIndex": 146
+      "DebugActionIndex": 140
     },
     {
       "Annotation": "MovedFromExtractorCombine Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.dll.mvfrm",
@@ -7288,50 +6706,50 @@
         113,
         114,
         121,
-        146
+        140
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 147
+      "DebugActionIndex": 141
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Rider.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 396539,
+      "PayloadOffset": 357803,
       "PayloadLength": 24,
       "PayloadDebugContentSnippet": "E:\\Games\\MoneyStackRun3D",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.UnityAdditionalFile.txt"
       ],
-      "DebugActionIndex": 148
+      "DebugActionIndex": 142
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.rsp",
       "DisplayName": "Writing Unity.Rider.Editor.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 396652,
+      "PayloadOffset": 357916,
       "PayloadLength": 30733,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.rsp"
       ],
-      "DebugActionIndex": 149
+      "DebugActionIndex": 143
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.rsp2",
       "DisplayName": "Writing Unity.Rider.Editor.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 427475,
+      "PayloadOffset": 388739,
       "PayloadLength": 37,
       "PayloadDebugContentSnippet": "/pathmap:\"E:\\Games\\MoneyStackR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.rsp2"
       ],
-      "DebugActionIndex": 150
+      "DebugActionIndex": 144
     },
     {
       "Annotation": "Csc Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.dll (+2 others)",
@@ -7611,14 +7029,14 @@
         96,
         104,
         112,
-        148,
-        149,
-        150,
-        153
+        142,
+        143,
+        144,
+        147
       ],
       "ToUseDependencies": [
-        148,
-        150
+        142,
+        144
       ],
       "FrontendResponseFiles": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.rsp"
@@ -7631,20 +7049,20 @@
         }
       ],
       "CachingMode": "ByDirectInputs",
-      "DebugActionIndex": 151
+      "DebugActionIndex": 145
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Rider.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 427611,
+      "PayloadOffset": 388875,
       "PayloadLength": 7757,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.dll.mvfrm.rsp"
       ],
-      "DebugActionIndex": 152
+      "DebugActionIndex": 146
     },
     {
       "Annotation": "MovedFromExtractorCombine Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.dll.mvfrm",
@@ -7838,50 +7256,50 @@
         113,
         114,
         121,
-        152
+        146
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 153
+      "DebugActionIndex": 147
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.TextMeshPro.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 435476,
+      "PayloadOffset": 396740,
       "PayloadLength": 24,
       "PayloadDebugContentSnippet": "E:\\Games\\MoneyStackRun3D",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.UnityAdditionalFile.txt"
       ],
-      "DebugActionIndex": 154
+      "DebugActionIndex": 148
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 435588,
-      "PayloadLength": 32540,
+      "PayloadOffset": 396852,
+      "PayloadLength": 32220,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.rsp"
       ],
-      "DebugActionIndex": 155
+      "DebugActionIndex": 149
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.rsp2",
       "DisplayName": "Writing Unity.TextMeshPro.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 468217,
+      "PayloadOffset": 429161,
       "PayloadLength": 37,
       "PayloadDebugContentSnippet": "/pathmap:\"E:\\Games\\MoneyStackR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.rsp2"
       ],
-      "DebugActionIndex": 156
+      "DebugActionIndex": 150
     },
     {
       "Annotation": "Csc Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.dll (+2 others)",
@@ -7899,12 +7317,6 @@
         "Assets/Firebase/Plugins/Firebase.Platform.dll",
         "Assets/Firebase/Plugins/Firebase.TaskExtension.dll",
         "Assets/Firebase/Plugins/Google.MiniJson.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Common.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Core.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Ump.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Ump.Unity.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Unity.dll",
         "Assets/Other/Demigiant/Demigiant/DemiLib/Core/DemiLib.dll",
         "Assets/Other/Demigiant/Demigiant/DemiLib/Core/Editor/DemiEditor.dll",
         "Assets/Other/Demigiant/Demigiant/DOTween/DOTween.dll",
@@ -8195,14 +7607,14 @@
       "ToBuildDependencies": [
         96,
         112,
-        154,
-        155,
-        156,
-        159
+        148,
+        149,
+        150,
+        153
       ],
       "ToUseDependencies": [
-        154,
-        156
+        148,
+        150
       ],
       "FrontendResponseFiles": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.rsp"
@@ -8215,20 +7627,20 @@
         }
       ],
       "CachingMode": "ByDirectInputs",
-      "DebugActionIndex": 157
+      "DebugActionIndex": 151
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 468352,
+      "PayloadOffset": 429296,
       "PayloadLength": 7680,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.dll.mvfrm.rsp"
       ],
-      "DebugActionIndex": 158
+      "DebugActionIndex": 152
     },
     {
       "Annotation": "MovedFromExtractorCombine Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.dll.mvfrm",
@@ -8420,50 +7832,50 @@
         98,
         114,
         121,
-        158
+        152
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 159
+      "DebugActionIndex": 153
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Timeline.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 476137,
+      "PayloadOffset": 437081,
       "PayloadLength": 24,
       "PayloadDebugContentSnippet": "E:\\Games\\MoneyStackRun3D",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.UnityAdditionalFile.txt"
       ],
-      "DebugActionIndex": 160
+      "DebugActionIndex": 154
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.rsp",
       "DisplayName": "Writing Unity.Timeline.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 476246,
-      "PayloadLength": 33573,
+      "PayloadOffset": 437190,
+      "PayloadLength": 33253,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.rsp"
       ],
-      "DebugActionIndex": 161
+      "DebugActionIndex": 155
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.rsp2",
       "DisplayName": "Writing Unity.Timeline.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 509905,
+      "PayloadOffset": 470529,
       "PayloadLength": 37,
       "PayloadDebugContentSnippet": "/pathmap:\"E:\\Games\\MoneyStackR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.rsp2"
       ],
-      "DebugActionIndex": 162
+      "DebugActionIndex": 156
     },
     {
       "Annotation": "Csc Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.dll (+2 others)",
@@ -8481,12 +7893,6 @@
         "Assets/Firebase/Plugins/Firebase.Platform.dll",
         "Assets/Firebase/Plugins/Firebase.TaskExtension.dll",
         "Assets/Firebase/Plugins/Google.MiniJson.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Common.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Core.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Ump.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Ump.Unity.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Unity.dll",
         "Assets/Other/Demigiant/Demigiant/DemiLib/Core/DemiLib.dll",
         "Assets/Other/Demigiant/Demigiant/DemiLib/Core/Editor/DemiEditor.dll",
         "Assets/Other/Demigiant/Demigiant/DOTween/DOTween.dll",
@@ -8791,14 +8197,14 @@
       "ToBuildDependencies": [
         96,
         112,
-        160,
-        161,
-        162,
-        165
+        154,
+        155,
+        156,
+        159
       ],
       "ToUseDependencies": [
-        160,
-        162
+        154,
+        156
       ],
       "FrontendResponseFiles": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.rsp"
@@ -8811,20 +8217,20 @@
         }
       ],
       "CachingMode": "ByDirectInputs",
-      "DebugActionIndex": 163
+      "DebugActionIndex": 157
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Timeline.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 510037,
+      "PayloadOffset": 470661,
       "PayloadLength": 7680,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.dll.mvfrm.rsp"
       ],
-      "DebugActionIndex": 164
+      "DebugActionIndex": 158
     },
     {
       "Annotation": "MovedFromExtractorCombine Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.dll.mvfrm",
@@ -9016,50 +8422,50 @@
         98,
         114,
         121,
-        164
+        158
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 165
+      "DebugActionIndex": 159
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VSCode.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 517827,
+      "PayloadOffset": 478451,
       "PayloadLength": 24,
       "PayloadDebugContentSnippet": "E:\\Games\\MoneyStackRun3D",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.UnityAdditionalFile.txt"
       ],
-      "DebugActionIndex": 166
+      "DebugActionIndex": 160
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.rsp",
       "DisplayName": "Writing Unity.VSCode.Editor.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 517941,
-      "PayloadLength": 29243,
+      "PayloadOffset": 478565,
+      "PayloadLength": 28923,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.rsp"
       ],
-      "DebugActionIndex": 167
+      "DebugActionIndex": 161
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.rsp2",
       "DisplayName": "Writing Unity.VSCode.Editor.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 547275,
+      "PayloadOffset": 507579,
       "PayloadLength": 37,
       "PayloadDebugContentSnippet": "/pathmap:\"E:\\Games\\MoneyStackR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.rsp2"
       ],
-      "DebugActionIndex": 168
+      "DebugActionIndex": 162
     },
     {
       "Annotation": "Csc Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.dll (+2 others)",
@@ -9077,12 +8483,6 @@
         "Assets/Firebase/Plugins/Firebase.Platform.dll",
         "Assets/Firebase/Plugins/Firebase.TaskExtension.dll",
         "Assets/Firebase/Plugins/Google.MiniJson.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Common.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Core.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Ump.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Ump.Unity.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Unity.dll",
         "Assets/Other/Demigiant/Demigiant/DemiLib/Core/DemiLib.dll",
         "Assets/Other/Demigiant/Demigiant/DemiLib/Core/Editor/DemiEditor.dll",
         "Assets/Other/Demigiant/Demigiant/DOTween/DOTween.dll",
@@ -9331,14 +8731,14 @@
         96,
         104,
         112,
-        166,
-        167,
-        168,
-        171
+        160,
+        161,
+        162,
+        165
       ],
       "ToUseDependencies": [
-        166,
-        168
+        160,
+        162
       ],
       "FrontendResponseFiles": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.rsp"
@@ -9351,20 +8751,20 @@
         }
       ],
       "CachingMode": "ByDirectInputs",
-      "DebugActionIndex": 169
+      "DebugActionIndex": 163
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VSCode.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 547412,
+      "PayloadOffset": 507716,
       "PayloadLength": 7930,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.dll.mvfrm.rsp"
       ],
-      "DebugActionIndex": 170
+      "DebugActionIndex": 164
     },
     {
       "Annotation": "MovedFromExtractorCombine Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.dll.mvfrm",
@@ -9562,50 +8962,50 @@
         113,
         114,
         121,
-        170
+        164
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 171
+      "DebugActionIndex": 165
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualStudio.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 555458,
+      "PayloadOffset": 515762,
       "PayloadLength": 24,
       "PayloadDebugContentSnippet": "E:\\Games\\MoneyStackRun3D",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.UnityAdditionalFile.txt"
       ],
-      "DebugActionIndex": 172
+      "DebugActionIndex": 166
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.rsp",
       "DisplayName": "Writing Unity.VisualStudio.Editor.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 555578,
+      "PayloadOffset": 515882,
       "PayloadLength": 30847,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.rsp"
       ],
-      "DebugActionIndex": 173
+      "DebugActionIndex": 167
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.rsp2",
       "DisplayName": "Writing Unity.VisualStudio.Editor.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 586522,
+      "PayloadOffset": 546826,
       "PayloadLength": 37,
       "PayloadDebugContentSnippet": "/pathmap:\"E:\\Games\\MoneyStackR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.rsp2"
       ],
-      "DebugActionIndex": 174
+      "DebugActionIndex": 168
     },
     {
       "Annotation": "Csc Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.dll (+2 others)",
@@ -9888,14 +9288,14 @@
         96,
         104,
         112,
-        172,
-        173,
-        174,
-        177
+        166,
+        167,
+        168,
+        171
       ],
       "ToUseDependencies": [
-        172,
-        174
+        166,
+        168
       ],
       "FrontendResponseFiles": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.rsp"
@@ -9908,20 +9308,20 @@
         }
       ],
       "CachingMode": "ByDirectInputs",
-      "DebugActionIndex": 175
+      "DebugActionIndex": 169
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualStudio.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 586665,
+      "PayloadOffset": 546969,
       "PayloadLength": 7757,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.dll.mvfrm.rsp"
       ],
-      "DebugActionIndex": 176
+      "DebugActionIndex": 170
     },
     {
       "Annotation": "MovedFromExtractorCombine Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.dll.mvfrm",
@@ -10115,50 +9515,50 @@
         113,
         114,
         121,
-        176
+        170
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 177
+      "DebugActionIndex": 171
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Cinemachine.UnityAdditionalFile.txt",
       "DisplayName": "Writing Cinemachine.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 594524,
+      "PayloadOffset": 554828,
       "PayloadLength": 24,
       "PayloadDebugContentSnippet": "E:\\Games\\MoneyStackRun3D",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Cinemachine.UnityAdditionalFile.txt"
       ],
-      "DebugActionIndex": 178
+      "DebugActionIndex": 172
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Cinemachine.rsp",
       "DisplayName": "Writing Cinemachine.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 594630,
-      "PayloadLength": 35040,
+      "PayloadOffset": 554934,
+      "PayloadLength": 34720,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Cinemachine.rsp"
       ],
-      "DebugActionIndex": 179
+      "DebugActionIndex": 173
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Cinemachine.rsp2",
       "DisplayName": "Writing Cinemachine.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 629753,
+      "PayloadOffset": 589737,
       "PayloadLength": 37,
       "PayloadDebugContentSnippet": "/pathmap:\"E:\\Games\\MoneyStackR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Cinemachine.rsp2"
       ],
-      "DebugActionIndex": 180
+      "DebugActionIndex": 174
     },
     {
       "Annotation": "Csc Library/Bee/artifacts/1900b0aE.dag/Cinemachine.dll (+2 others)",
@@ -10176,12 +9576,6 @@
         "Assets/Firebase/Plugins/Firebase.Platform.dll",
         "Assets/Firebase/Plugins/Firebase.TaskExtension.dll",
         "Assets/Firebase/Plugins/Google.MiniJson.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Common.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Core.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Ump.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Ump.Unity.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Unity.dll",
         "Assets/Other/Demigiant/Demigiant/DemiLib/Core/DemiLib.dll",
         "Assets/Other/Demigiant/Demigiant/DemiLib/Core/Editor/DemiEditor.dll",
         "Assets/Other/Demigiant/Demigiant/DOTween/DOTween.dll",
@@ -10494,15 +9888,15 @@
       "ToBuildDependencies": [
         96,
         112,
-        163,
-        178,
-        179,
-        180,
-        184
+        157,
+        172,
+        173,
+        174,
+        178
       ],
       "ToUseDependencies": [
-        178,
-        180
+        172,
+        174
       ],
       "FrontendResponseFiles": [
         "Library/Bee/artifacts/1900b0aE.dag/Cinemachine.rsp"
@@ -10515,7 +9909,7 @@
         }
       ],
       "CachingMode": "ByDirectInputs",
-      "DebugActionIndex": 181
+      "DebugActionIndex": 175
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/Unity.Timeline.ref.dll_621CDDF9C514DF8F.mvfrm",
@@ -10529,24 +9923,24 @@
         "Library/Bee/artifacts/mvdfrm/Unity.Timeline.ref.dll_621CDDF9C514DF8F.mvfrm"
       ],
       "ToBuildDependencies": [
-        163
+        157
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 182
+      "DebugActionIndex": 176
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Cinemachine.dll.mvfrm.rsp",
       "DisplayName": "Writing Cinemachine.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 629882,
+      "PayloadOffset": 589866,
       "PayloadLength": 7756,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Cinemachine.dll.mvfrm.rsp"
       ],
-      "DebugActionIndex": 183
+      "DebugActionIndex": 177
     },
     {
       "Annotation": "MovedFromExtractorCombine Library/Bee/artifacts/1900b0aE.dag/Cinemachine.dll.mvfrm",
@@ -10739,51 +10133,51 @@
         98,
         114,
         121,
-        182,
-        183
+        176,
+        177
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 184
+      "DebugActionIndex": 178
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/ToonyColorsPro.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing ToonyColorsPro.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 637750,
+      "PayloadOffset": 597734,
       "PayloadLength": 24,
       "PayloadDebugContentSnippet": "E:\\Games\\MoneyStackRun3D",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/ToonyColorsPro.Editor.UnityAdditionalFile.txt"
       ],
-      "DebugActionIndex": 185
+      "DebugActionIndex": 179
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/ToonyColorsPro.Editor.rsp",
       "DisplayName": "Writing ToonyColorsPro.Editor.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 637866,
-      "PayloadLength": 31605,
+      "PayloadOffset": 597850,
+      "PayloadLength": 31285,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/ToonyColorsPro.Editor.rsp"
       ],
-      "DebugActionIndex": 186
+      "DebugActionIndex": 180
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/ToonyColorsPro.Editor.rsp2",
       "DisplayName": "Writing ToonyColorsPro.Editor.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 669564,
+      "PayloadOffset": 629228,
       "PayloadLength": 0,
       "PayloadDebugContentSnippet": "",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/ToonyColorsPro.Editor.rsp2"
       ],
-      "DebugActionIndex": 187
+      "DebugActionIndex": 181
     },
     {
       "Annotation": "Csc Library/Bee/artifacts/1900b0aE.dag/ToonyColorsPro.Editor.dll (+2 others)",
@@ -10801,12 +10195,6 @@
         "Assets/Firebase/Plugins/Firebase.Platform.dll",
         "Assets/Firebase/Plugins/Firebase.TaskExtension.dll",
         "Assets/Firebase/Plugins/Google.MiniJson.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Common.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Core.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Ump.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Ump.Unity.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Unity.dll",
         "Assets/Other/Demigiant/Demigiant/DemiLib/Core/DemiLib.dll",
         "Assets/Other/Demigiant/Demigiant/DemiLib/Core/Editor/DemiEditor.dll",
         "Assets/Other/Demigiant/Demigiant/DOTween/DOTween.dll",
@@ -11087,15 +10475,15 @@
         96,
         104,
         112,
-        127,
-        185,
-        186,
-        187,
-        190
+        120,
+        179,
+        180,
+        181,
+        184
       ],
       "ToUseDependencies": [
-        185,
-        187
+        179,
+        181
       ],
       "FrontendResponseFiles": [
         "Library/Bee/artifacts/1900b0aE.dag/ToonyColorsPro.Editor.rsp"
@@ -11107,20 +10495,20 @@
           "Value": "0"
         }
       ],
-      "DebugActionIndex": 188
+      "DebugActionIndex": 182
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/ToonyColorsPro.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing ToonyColorsPro.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 669666,
+      "PayloadOffset": 629330,
       "PayloadLength": 7930,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/ToonyColorsPro.Editor.dll.mvfrm.rsp"
       ],
-      "DebugActionIndex": 189
+      "DebugActionIndex": 183
     },
     {
       "Annotation": "MovedFromExtractorCombine Library/Bee/artifacts/1900b0aE.dag/ToonyColorsPro.Editor.dll.mvfrm",
@@ -11318,50 +10706,50 @@
         113,
         114,
         121,
-        189
+        183
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 190
+      "DebugActionIndex": 184
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/ToonyColorsPro2.Demo.UnityAdditionalFile.txt",
       "DisplayName": "Writing ToonyColorsPro2.Demo.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 677707,
+      "PayloadOffset": 637371,
       "PayloadLength": 24,
       "PayloadDebugContentSnippet": "E:\\Games\\MoneyStackRun3D",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/ToonyColorsPro2.Demo.UnityAdditionalFile.txt"
       ],
-      "DebugActionIndex": 191
+      "DebugActionIndex": 185
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/ToonyColorsPro2.Demo.rsp",
       "DisplayName": "Writing ToonyColorsPro2.Demo.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 677822,
-      "PayloadLength": 28638,
+      "PayloadOffset": 637486,
+      "PayloadLength": 28318,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/ToonyColorsPro2.Demo.rsp"
       ],
-      "DebugActionIndex": 192
+      "DebugActionIndex": 186
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/ToonyColorsPro2.Demo.rsp2",
       "DisplayName": "Writing ToonyColorsPro2.Demo.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 706552,
+      "PayloadOffset": 665896,
       "PayloadLength": 0,
       "PayloadDebugContentSnippet": "",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/ToonyColorsPro2.Demo.rsp2"
       ],
-      "DebugActionIndex": 193
+      "DebugActionIndex": 187
     },
     {
       "Annotation": "Csc Library/Bee/artifacts/1900b0aE.dag/ToonyColorsPro2.Demo.dll (+2 others)",
@@ -11379,12 +10767,6 @@
         "Assets/Firebase/Plugins/Firebase.Platform.dll",
         "Assets/Firebase/Plugins/Firebase.TaskExtension.dll",
         "Assets/Firebase/Plugins/Google.MiniJson.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Common.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Core.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Ump.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Ump.Unity.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Unity.dll",
         "Assets/Other/Demigiant/Demigiant/DemiLib/Core/DemiLib.dll",
         "Assets/Other/Demigiant/Demigiant/DemiLib/Core/Editor/DemiEditor.dll",
         "Assets/Other/Demigiant/Demigiant/DOTween/DOTween.dll",
@@ -11630,15 +11012,15 @@
       "ToBuildDependencies": [
         96,
         112,
-        127,
-        191,
-        192,
-        193,
-        196
+        120,
+        185,
+        186,
+        187,
+        190
       ],
       "ToUseDependencies": [
-        191,
-        193
+        185,
+        187
       ],
       "FrontendResponseFiles": [
         "Library/Bee/artifacts/1900b0aE.dag/ToonyColorsPro2.Demo.rsp"
@@ -11650,20 +11032,20 @@
           "Value": "0"
         }
       ],
-      "DebugActionIndex": 194
+      "DebugActionIndex": 188
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/ToonyColorsPro2.Demo.dll.mvfrm.rsp",
       "DisplayName": "Writing ToonyColorsPro2.Demo.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 706653,
+      "PayloadOffset": 665997,
       "PayloadLength": 7680,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/ToonyColorsPro2.Demo.dll.mvfrm.rsp"
       ],
-      "DebugActionIndex": 195
+      "DebugActionIndex": 189
     },
     {
       "Annotation": "MovedFromExtractorCombine Library/Bee/artifacts/1900b0aE.dag/ToonyColorsPro2.Demo.dll.mvfrm",
@@ -11855,50 +11237,50 @@
         98,
         114,
         121,
-        195
+        189
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 196
+      "DebugActionIndex": 190
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.AI.Navigation.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 714450,
+      "PayloadOffset": 673794,
       "PayloadLength": 24,
       "PayloadDebugContentSnippet": "E:\\Games\\MoneyStackRun3D",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Editor.UnityAdditionalFile.txt"
       ],
-      "DebugActionIndex": 197
+      "DebugActionIndex": 191
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Editor.rsp",
       "DisplayName": "Writing Unity.AI.Navigation.Editor.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 714571,
-      "PayloadLength": 29613,
+      "PayloadOffset": 673915,
+      "PayloadLength": 29293,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Editor.rsp"
       ],
-      "DebugActionIndex": 198
+      "DebugActionIndex": 192
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Editor.rsp2",
       "DisplayName": "Writing Unity.AI.Navigation.Editor.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 744282,
+      "PayloadOffset": 703306,
       "PayloadLength": 37,
       "PayloadDebugContentSnippet": "/pathmap:\"E:\\Games\\MoneyStackR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Editor.rsp2"
       ],
-      "DebugActionIndex": 199
+      "DebugActionIndex": 193
     },
     {
       "Annotation": "Csc Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Editor.dll (+2 others)",
@@ -11916,12 +11298,6 @@
         "Assets/Firebase/Plugins/Firebase.Platform.dll",
         "Assets/Firebase/Plugins/Firebase.TaskExtension.dll",
         "Assets/Firebase/Plugins/Google.MiniJson.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Common.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Core.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Ump.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Ump.Unity.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Unity.dll",
         "Assets/Other/Demigiant/Demigiant/DemiLib/Core/DemiLib.dll",
         "Assets/Other/Demigiant/Demigiant/DemiLib/Core/Editor/DemiEditor.dll",
         "Assets/Other/Demigiant/Demigiant/DOTween/DOTween.dll",
@@ -12175,16 +11551,16 @@
         96,
         104,
         112,
+        127,
         133,
-        139,
-        197,
-        198,
-        199,
-        204
+        191,
+        192,
+        193,
+        198
       ],
       "ToUseDependencies": [
-        197,
-        199
+        191,
+        193
       ],
       "FrontendResponseFiles": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Editor.rsp"
@@ -12197,7 +11573,7 @@
         }
       ],
       "CachingMode": "ByDirectInputs",
-      "DebugActionIndex": 200
+      "DebugActionIndex": 194
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/Unity.AI.Navigation.Editor.ConversionSystem.ref.dll_D58562F0DF82BCBA.mvfrm",
@@ -12211,11 +11587,11 @@
         "Library/Bee/artifacts/mvdfrm/Unity.AI.Navigation.Editor.ConversionSystem.ref.dll_D58562F0DF82BCBA.mvfrm"
       ],
       "ToBuildDependencies": [
-        133
+        127
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 201
+      "DebugActionIndex": 195
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/Unity.AI.Navigation.ref.dll_407F07063643C512.mvfrm",
@@ -12229,24 +11605,24 @@
         "Library/Bee/artifacts/mvdfrm/Unity.AI.Navigation.ref.dll_407F07063643C512.mvfrm"
       ],
       "ToBuildDependencies": [
-        139
+        133
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 202
+      "DebugActionIndex": 196
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.AI.Navigation.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 744426,
+      "PayloadOffset": 703450,
       "PayloadLength": 8116,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Editor.dll.mvfrm.rsp"
       ],
-      "DebugActionIndex": 203
+      "DebugActionIndex": 197
     },
     {
       "Annotation": "MovedFromExtractorCombine Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Editor.dll.mvfrm",
@@ -12446,52 +11822,52 @@
         113,
         114,
         121,
-        201,
-        202,
-        203
+        195,
+        196,
+        197
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 204
+      "DebugActionIndex": 198
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.CollabProxy.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 752657,
+      "PayloadOffset": 711681,
       "PayloadLength": 24,
       "PayloadDebugContentSnippet": "E:\\Games\\MoneyStackRun3D",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.UnityAdditionalFile.txt"
       ],
-      "DebugActionIndex": 205
+      "DebugActionIndex": 199
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.rsp",
       "DisplayName": "Writing Unity.CollabProxy.Editor.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 752776,
-      "PayloadLength": 28669,
+      "PayloadOffset": 711800,
+      "PayloadLength": 28349,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.rsp"
       ],
-      "DebugActionIndex": 206
+      "DebugActionIndex": 200
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.rsp2",
       "DisplayName": "Writing Unity.CollabProxy.Editor.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 781541,
+      "PayloadOffset": 740245,
       "PayloadLength": 37,
       "PayloadDebugContentSnippet": "/pathmap:\"E:\\Games\\MoneyStackR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.rsp2"
       ],
-      "DebugActionIndex": 207
+      "DebugActionIndex": 201
     },
     {
       "Annotation": "Csc Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.dll (+2 others)",
@@ -12509,12 +11885,6 @@
         "Assets/Firebase/Plugins/Firebase.Platform.dll",
         "Assets/Firebase/Plugins/Firebase.TaskExtension.dll",
         "Assets/Firebase/Plugins/Google.MiniJson.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Common.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Core.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Ump.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Ump.Unity.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Unity.dll",
         "Assets/Other/Demigiant/Demigiant/DemiLib/Core/DemiLib.dll",
         "Assets/Other/Demigiant/Demigiant/DemiLib/Core/Editor/DemiEditor.dll",
         "Assets/Other/Demigiant/Demigiant/DOTween/DOTween.dll",
@@ -12757,15 +12127,15 @@
         96,
         104,
         112,
-        145,
-        205,
-        206,
-        207,
-        211
+        139,
+        199,
+        200,
+        201,
+        205
       ],
       "ToUseDependencies": [
-        205,
-        207
+        199,
+        201
       ],
       "FrontendResponseFiles": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.rsp"
@@ -12778,7 +12148,7 @@
         }
       ],
       "CachingMode": "ByDirectInputs",
-      "DebugActionIndex": 208
+      "DebugActionIndex": 202
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/Unity.PlasticSCM.Editor.ref.dll_257AEB342BE77856.mvfrm",
@@ -12792,24 +12162,24 @@
         "Library/Bee/artifacts/mvdfrm/Unity.PlasticSCM.Editor.ref.dll_257AEB342BE77856.mvfrm"
       ],
       "ToBuildDependencies": [
-        145
+        139
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 209
+      "DebugActionIndex": 203
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.CollabProxy.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 781683,
+      "PayloadOffset": 740387,
       "PayloadLength": 8015,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.dll.mvfrm.rsp"
       ],
-      "DebugActionIndex": 210
+      "DebugActionIndex": 204
     },
     {
       "Annotation": "MovedFromExtractorCombine Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.dll.mvfrm",
@@ -13008,51 +12378,51 @@
         113,
         114,
         121,
-        209,
-        210
+        203,
+        204
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 211
+      "DebugActionIndex": 205
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.TextMeshPro.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 789813,
+      "PayloadOffset": 748517,
       "PayloadLength": 24,
       "PayloadDebugContentSnippet": "E:\\Games\\MoneyStackRun3D",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.UnityAdditionalFile.txt"
       ],
-      "DebugActionIndex": 212
+      "DebugActionIndex": 206
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.Editor.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 789932,
-      "PayloadLength": 32997,
+      "PayloadOffset": 748636,
+      "PayloadLength": 32677,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.rsp"
       ],
-      "DebugActionIndex": 213
+      "DebugActionIndex": 207
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.rsp2",
       "DisplayName": "Writing Unity.TextMeshPro.Editor.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 823025,
+      "PayloadOffset": 781409,
       "PayloadLength": 37,
       "PayloadDebugContentSnippet": "/pathmap:\"E:\\Games\\MoneyStackR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.rsp2"
       ],
-      "DebugActionIndex": 214
+      "DebugActionIndex": 208
     },
     {
       "Annotation": "Csc Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.dll (+2 others)",
@@ -13070,12 +12440,6 @@
         "Assets/Firebase/Plugins/Firebase.Platform.dll",
         "Assets/Firebase/Plugins/Firebase.TaskExtension.dll",
         "Assets/Firebase/Plugins/Google.MiniJson.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Common.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Core.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Ump.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Ump.Unity.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Unity.dll",
         "Assets/Other/Demigiant/Demigiant/DemiLib/Core/DemiLib.dll",
         "Assets/Other/Demigiant/Demigiant/DemiLib/Core/Editor/DemiEditor.dll",
         "Assets/Other/Demigiant/Demigiant/DOTween/DOTween.dll",
@@ -13365,15 +12729,15 @@
         96,
         104,
         112,
-        157,
-        212,
-        213,
-        214,
-        218
+        151,
+        206,
+        207,
+        208,
+        212
       ],
       "ToUseDependencies": [
-        212,
-        214
+        206,
+        208
       ],
       "FrontendResponseFiles": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.rsp"
@@ -13386,7 +12750,7 @@
         }
       ],
       "CachingMode": "ByDirectInputs",
-      "DebugActionIndex": 215
+      "DebugActionIndex": 209
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/Unity.TextMeshPro.ref.dll_84A4293DBDD182DB.mvfrm",
@@ -13400,24 +12764,24 @@
         "Library/Bee/artifacts/mvdfrm/Unity.TextMeshPro.ref.dll_84A4293DBDD182DB.mvfrm"
       ],
       "ToBuildDependencies": [
-        157
+        151
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 216
+      "DebugActionIndex": 210
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 823167,
+      "PayloadOffset": 781551,
       "PayloadLength": 8009,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.dll.mvfrm.rsp"
       ],
-      "DebugActionIndex": 217
+      "DebugActionIndex": 211
     },
     {
       "Annotation": "MovedFromExtractorCombine Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.dll.mvfrm",
@@ -13616,51 +12980,51 @@
         113,
         114,
         121,
-        216,
-        217
+        210,
+        211
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 218
+      "DebugActionIndex": 212
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Timeline.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 831288,
+      "PayloadOffset": 789672,
       "PayloadLength": 24,
       "PayloadDebugContentSnippet": "E:\\Games\\MoneyStackRun3D",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.UnityAdditionalFile.txt"
       ],
-      "DebugActionIndex": 219
+      "DebugActionIndex": 213
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.rsp",
       "DisplayName": "Writing Unity.Timeline.Editor.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 831404,
-      "PayloadLength": 52612,
+      "PayloadOffset": 789788,
+      "PayloadLength": 52292,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.rsp"
       ],
-      "DebugActionIndex": 220
+      "DebugActionIndex": 214
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.rsp2",
       "DisplayName": "Writing Unity.Timeline.Editor.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 884109,
+      "PayloadOffset": 842173,
       "PayloadLength": 37,
       "PayloadDebugContentSnippet": "/pathmap:\"E:\\Games\\MoneyStackR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.rsp2"
       ],
-      "DebugActionIndex": 221
+      "DebugActionIndex": 215
     },
     {
       "Annotation": "Csc Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.dll (+2 others)",
@@ -13678,12 +13042,6 @@
         "Assets/Firebase/Plugins/Firebase.Platform.dll",
         "Assets/Firebase/Plugins/Firebase.TaskExtension.dll",
         "Assets/Firebase/Plugins/Google.MiniJson.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Common.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Core.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Ump.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Ump.Unity.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Unity.dll",
         "Assets/Other/Demigiant/Demigiant/DemiLib/Core/DemiLib.dll",
         "Assets/Other/Demigiant/Demigiant/DemiLib/Core/Editor/DemiEditor.dll",
         "Assets/Other/Demigiant/Demigiant/DOTween/DOTween.dll",
@@ -14197,15 +13555,15 @@
         96,
         104,
         112,
-        163,
-        219,
-        220,
-        221,
-        224
+        157,
+        213,
+        214,
+        215,
+        218
       ],
       "ToUseDependencies": [
-        219,
-        221
+        213,
+        215
       ],
       "FrontendResponseFiles": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.rsp"
@@ -14218,20 +13576,20 @@
         }
       ],
       "CachingMode": "ByDirectInputs",
-      "DebugActionIndex": 222
+      "DebugActionIndex": 216
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Timeline.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 884248,
+      "PayloadOffset": 842312,
       "PayloadLength": 8006,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.dll.mvfrm.rsp"
       ],
-      "DebugActionIndex": 223
+      "DebugActionIndex": 217
     },
     {
       "Annotation": "MovedFromExtractorCombine Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.dll.mvfrm",
@@ -14430,51 +13788,51 @@
         113,
         114,
         121,
-        182,
-        223
+        176,
+        217
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 224
+      "DebugActionIndex": 218
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Updater.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.AI.Navigation.Updater.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 892372,
+      "PayloadOffset": 850436,
       "PayloadLength": 24,
       "PayloadDebugContentSnippet": "E:\\Games\\MoneyStackRun3D",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Updater.UnityAdditionalFile.txt"
       ],
-      "DebugActionIndex": 225
+      "DebugActionIndex": 219
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Updater.rsp",
       "DisplayName": "Writing Unity.AI.Navigation.Updater.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 892494,
-      "PayloadLength": 29232,
+      "PayloadOffset": 850558,
+      "PayloadLength": 28912,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Updater.rsp"
       ],
-      "DebugActionIndex": 226
+      "DebugActionIndex": 220
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Updater.rsp2",
       "DisplayName": "Writing Unity.AI.Navigation.Updater.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 921825,
+      "PayloadOffset": 879569,
       "PayloadLength": 37,
       "PayloadDebugContentSnippet": "/pathmap:\"E:\\Games\\MoneyStackR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Updater.rsp2"
       ],
-      "DebugActionIndex": 227
+      "DebugActionIndex": 221
     },
     {
       "Annotation": "Csc Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Updater.dll (+2 others)",
@@ -14492,12 +13850,6 @@
         "Assets/Firebase/Plugins/Firebase.Platform.dll",
         "Assets/Firebase/Plugins/Firebase.TaskExtension.dll",
         "Assets/Firebase/Plugins/Google.MiniJson.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Common.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Core.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Ump.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Ump.Unity.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Unity.dll",
         "Assets/Other/Demigiant/Demigiant/DemiLib/Core/DemiLib.dll",
         "Assets/Other/Demigiant/Demigiant/DemiLib/Core/Editor/DemiEditor.dll",
         "Assets/Other/Demigiant/Demigiant/DOTween/DOTween.dll",
@@ -14746,17 +14098,17 @@
         96,
         104,
         112,
+        127,
         133,
-        139,
-        200,
-        225,
-        226,
-        227,
-        231
+        194,
+        219,
+        220,
+        221,
+        225
       ],
       "ToUseDependencies": [
-        225,
-        227
+        219,
+        221
       ],
       "FrontendResponseFiles": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Updater.rsp"
@@ -14769,7 +14121,7 @@
         }
       ],
       "CachingMode": "ByDirectInputs",
-      "DebugActionIndex": 228
+      "DebugActionIndex": 222
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/Unity.AI.Navigation.Editor.ref.dll_7989A1C8D57EF9BF.mvfrm",
@@ -14783,24 +14135,24 @@
         "Library/Bee/artifacts/mvdfrm/Unity.AI.Navigation.Editor.ref.dll_7989A1C8D57EF9BF.mvfrm"
       ],
       "ToBuildDependencies": [
-        200
+        194
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 229
+      "DebugActionIndex": 223
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Updater.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.AI.Navigation.Updater.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 921970,
+      "PayloadOffset": 879714,
       "PayloadLength": 8204,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Updater.dll.mvfrm.rsp"
       ],
-      "DebugActionIndex": 230
+      "DebugActionIndex": 224
     },
     {
       "Annotation": "MovedFromExtractorCombine Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Updater.dll.mvfrm",
@@ -15001,53 +14353,53 @@
         113,
         114,
         121,
-        201,
-        202,
-        229,
-        230
+        195,
+        196,
+        223,
+        224
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 231
+      "DebugActionIndex": 225
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/com.unity.cinemachine.editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing com.unity.cinemachine.editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 930293,
+      "PayloadOffset": 888037,
       "PayloadLength": 24,
       "PayloadDebugContentSnippet": "E:\\Games\\MoneyStackRun3D",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/com.unity.cinemachine.editor.UnityAdditionalFile.txt"
       ],
-      "DebugActionIndex": 232
+      "DebugActionIndex": 226
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/com.unity.cinemachine.editor.rsp",
       "DisplayName": "Writing com.unity.cinemachine.editor.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 930416,
-      "PayloadLength": 35709,
+      "PayloadOffset": 888160,
+      "PayloadLength": 35389,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/com.unity.cinemachine.editor.rsp"
       ],
-      "DebugActionIndex": 233
+      "DebugActionIndex": 227
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/com.unity.cinemachine.editor.rsp2",
       "DisplayName": "Writing com.unity.cinemachine.editor.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 966225,
+      "PayloadOffset": 923649,
       "PayloadLength": 37,
       "PayloadDebugContentSnippet": "/pathmap:\"E:\\Games\\MoneyStackR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/com.unity.cinemachine.editor.rsp2"
       ],
-      "DebugActionIndex": 234
+      "DebugActionIndex": 228
     },
     {
       "Annotation": "Csc Library/Bee/artifacts/1900b0aE.dag/com.unity.cinemachine.editor.dll (+2 others)",
@@ -15065,12 +14417,6 @@
         "Assets/Firebase/Plugins/Firebase.Platform.dll",
         "Assets/Firebase/Plugins/Firebase.TaskExtension.dll",
         "Assets/Firebase/Plugins/Google.MiniJson.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Common.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Core.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Ump.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Ump.Unity.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Unity.dll",
         "Assets/Other/Demigiant/Demigiant/DemiLib/Core/DemiLib.dll",
         "Assets/Other/Demigiant/Demigiant/DemiLib/Core/Editor/DemiEditor.dll",
         "Assets/Other/Demigiant/Demigiant/DOTween/DOTween.dll",
@@ -15382,17 +14728,17 @@
         96,
         104,
         112,
-        163,
-        181,
-        222,
-        232,
-        233,
-        234,
-        238
+        157,
+        175,
+        216,
+        226,
+        227,
+        228,
+        232
       ],
       "ToUseDependencies": [
-        232,
-        234
+        226,
+        228
       ],
       "FrontendResponseFiles": [
         "Library/Bee/artifacts/1900b0aE.dag/com.unity.cinemachine.editor.rsp"
@@ -15405,7 +14751,7 @@
         }
       ],
       "CachingMode": "ByDirectInputs",
-      "DebugActionIndex": 235
+      "DebugActionIndex": 229
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/Unity.Timeline.Editor.ref.dll_0D3D3C0B73557612.mvfrm",
@@ -15419,24 +14765,24 @@
         "Library/Bee/artifacts/mvdfrm/Unity.Timeline.Editor.ref.dll_0D3D3C0B73557612.mvfrm"
       ],
       "ToBuildDependencies": [
-        222
+        216
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 236
+      "DebugActionIndex": 230
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/com.unity.cinemachine.editor.dll.mvfrm.rsp",
       "DisplayName": "Writing com.unity.cinemachine.editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 966371,
+      "PayloadOffset": 923795,
       "PayloadLength": 8089,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/com.unity.cinemachine.editor.dll.mvfrm.rsp"
       ],
-      "DebugActionIndex": 237
+      "DebugActionIndex": 231
     },
     {
       "Annotation": "MovedFromExtractorCombine Library/Bee/artifacts/1900b0aE.dag/com.unity.cinemachine.editor.dll.mvfrm",
@@ -15636,52 +14982,52 @@
         113,
         114,
         121,
-        182,
-        236,
-        237
+        176,
+        230,
+        231
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 238
+      "DebugActionIndex": 232
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.UnityAdditionalFile.txt",
       "DisplayName": "Writing Assembly-CSharp.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 974566,
+      "PayloadOffset": 931990,
       "PayloadLength": 24,
       "PayloadDebugContentSnippet": "E:\\Games\\MoneyStackRun3D",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.UnityAdditionalFile.txt"
       ],
-      "DebugActionIndex": 239
+      "DebugActionIndex": 233
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.rsp",
       "DisplayName": "Writing Assembly-CSharp.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 974676,
-      "PayloadLength": 37699,
+      "PayloadOffset": 932100,
+      "PayloadLength": 37170,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.rsp"
       ],
-      "DebugActionIndex": 240
+      "DebugActionIndex": 234
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.rsp2",
       "DisplayName": "Writing Assembly-CSharp.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1012462,
+      "PayloadOffset": 969357,
       "PayloadLength": 0,
       "PayloadDebugContentSnippet": "",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.rsp2"
       ],
-      "DebugActionIndex": 241
+      "DebugActionIndex": 235
     },
     {
       "Annotation": "Csc Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll (+2 others)",
@@ -15693,12 +15039,6 @@
         "Assets/Firebase/Plugins/Firebase.Platform.dll",
         "Assets/Firebase/Plugins/Firebase.TaskExtension.dll",
         "Assets/Firebase/Plugins/Google.MiniJson.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Common.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Core.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Ump.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Ump.Unity.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Unity.dll",
         "Assets/Other/Demigiant/Demigiant/DemiLib/Core/DemiLib.dll",
         "Assets/Other/Demigiant/Demigiant/DOTween/DOTween.dll",
         "Assets/Other/Demigiant/Demigiant/DOTweenPro/DOTweenPro.dll",
@@ -15909,7 +15249,6 @@
         "E:/Unity/2022.3.62f1/Editor/Data/NetStandard/ref/2.1.0/netstandard.dll",
         "Library/Bee/artifacts/1900b0aE.dag/Cinemachine.ref.dll",
         "Library/Bee/artifacts/1900b0aE.dag/com.unity.cinemachine.editor.ref.dll",
-        "Library/Bee/artifacts/1900b0aE.dag/GoogleMobileAds.Editor.ref.dll",
         "Library/Bee/artifacts/1900b0aE.dag/ToonyColorsPro.Editor.ref.dll",
         "Library/Bee/artifacts/1900b0aE.dag/ToonyColorsPro.Runtime.ref.dll",
         "Library/Bee/artifacts/1900b0aE.dag/ToonyColorsPro2.Demo.ref.dll",
@@ -15949,41 +15288,41 @@
         "Assets/Art Resources/Epic Toon FX/Scripts/ETFXLightFade.cs",
         "Assets/Art Resources/Epic Toon FX/Scripts/ETFXPitchRandomizer.cs",
         "Assets/Art Resources/Epic Toon FX/Scripts/ETFXRotation.cs",
-        "Assets/Original Assets/Scripts/BuildingBlockMoveSpeed.cs",
-        "Assets/Original Assets/Scripts/BundleControl.cs",
-        "Assets/Original Assets/Scripts/ButtonPressed.cs",
-        "Assets/Original Assets/Scripts/CameraFollow.cs",
-        "Assets/Original Assets/Scripts/CanvasReferenceScaler.cs",
-        "Assets/Original Assets/Scripts/Constants.cs",
-        "Assets/Original Assets/Scripts/control.cs",
-        "Assets/Original Assets/Scripts/EndingCalculation.cs",
-        "Assets/Original Assets/Scripts/GameManager.cs",
-        "Assets/Original Assets/Scripts/ListOfCurrentMoneyStack.cs",
-        "Assets/Original Assets/Scripts/MenuManager.cs",
-        "Assets/Original Assets/Scripts/MoneyIndicatorValue.cs",
-        "Assets/Original Assets/Scripts/MoneyPathGen.cs",
-        "Assets/Original Assets/Scripts/MoneyPathMove.cs",
-        "Assets/Original Assets/Scripts/MoneyStackValue.cs",
-        "Assets/Original Assets/Scripts/MovingMoneyUpDown.cs",
-        "Assets/Original Assets/Scripts/MovingPointer.cs",
-        "Assets/Original Assets/Scripts/MultiplierValue.cs",
-        "Assets/Original Assets/Scripts/ObstacleHit.cs",
-        "Assets/Original Assets/Scripts/ObstacleValue.cs",
-        "Assets/Original Assets/Scripts/PlayerBlockMovement.cs",
-        "Assets/Original Assets/Scripts/PlayerMovement.cs",
-        "Assets/Original Assets/Scripts/PlayerPowerController.cs",
-        "Assets/Original Assets/Scripts/PointerMovement.cs",
-        "Assets/Original Assets/Scripts/PowerPortalsSetting.cs",
-        "Assets/Original Assets/Scripts/PowerPortalValue.cs",
-        "Assets/Original Assets/Scripts/ShowGemOnUI.cs",
-        "Assets/Original Assets/Scripts/SoundManager.cs",
-        "Assets/Original Assets/Scripts/SpinLight.cs",
-        "Assets/Original Assets/Scripts/StackIncrease.cs",
-        "Assets/Original Assets/Scripts/StackPosController.cs",
-        "Assets/Original Assets/Scripts/StairBuilding.cs",
-        "Assets/Original Assets/Scripts/StaircaseValue.cs",
-        "Assets/Original Assets/Scripts/StairClimbing.cs",
-        "Assets/Original Assets/Scripts/TrapRotation.cs",
+        "Assets/Game Assets/Scripts/BuildingBlockMoveSpeed.cs",
+        "Assets/Game Assets/Scripts/BundleControl.cs",
+        "Assets/Game Assets/Scripts/ButtonPressedUI.cs",
+        "Assets/Game Assets/Scripts/CameraFollow.cs",
+        "Assets/Game Assets/Scripts/CanvasReferenceScaler.cs",
+        "Assets/Game Assets/Scripts/Constants.cs",
+        "Assets/Game Assets/Scripts/control.cs",
+        "Assets/Game Assets/Scripts/EndingCalculation.cs",
+        "Assets/Game Assets/Scripts/GameManager.cs",
+        "Assets/Game Assets/Scripts/ListOfCurrentMoneyStack.cs",
+        "Assets/Game Assets/Scripts/MenuManager.cs",
+        "Assets/Game Assets/Scripts/MoneyIndicatorValue.cs",
+        "Assets/Game Assets/Scripts/MoneyPathGen.cs",
+        "Assets/Game Assets/Scripts/MoneyPathMove.cs",
+        "Assets/Game Assets/Scripts/MoneyPosController.cs",
+        "Assets/Game Assets/Scripts/MoneyStackValue.cs",
+        "Assets/Game Assets/Scripts/MovingMoneyUpDown.cs",
+        "Assets/Game Assets/Scripts/MovingPointer.cs",
+        "Assets/Game Assets/Scripts/MultiplierValue.cs",
+        "Assets/Game Assets/Scripts/ObstacleHit.cs",
+        "Assets/Game Assets/Scripts/ObstacleValue.cs",
+        "Assets/Game Assets/Scripts/PlayerBlockMovement.cs",
+        "Assets/Game Assets/Scripts/PlayerMovement.cs",
+        "Assets/Game Assets/Scripts/PlayerPowerController.cs",
+        "Assets/Game Assets/Scripts/PointerMovement.cs",
+        "Assets/Game Assets/Scripts/PowerPortalsSetting.cs",
+        "Assets/Game Assets/Scripts/PowerPortalValue.cs",
+        "Assets/Game Assets/Scripts/ShowGemOnUI.cs",
+        "Assets/Game Assets/Scripts/SoundManager.cs",
+        "Assets/Game Assets/Scripts/SpinLight.cs",
+        "Assets/Game Assets/Scripts/StackIncrease.cs",
+        "Assets/Game Assets/Scripts/StairBuilding.cs",
+        "Assets/Game Assets/Scripts/StaircaseValue.cs",
+        "Assets/Game Assets/Scripts/StairClimbing.cs",
+        "Assets/Game Assets/Scripts/TrapRotation.cs",
         "Assets/Other/Demigiant/Demigiant/DOTween/Modules/DOTweenModuleAudio.cs",
         "Assets/Other/Demigiant/Demigiant/DOTween/Modules/DOTweenModulePhysics.cs",
         "Assets/Other/Demigiant/Demigiant/DOTween/Modules/DOTweenModulePhysics2D.cs",
@@ -16114,22 +15453,21 @@
         163,
         169,
         175,
-        181,
+        182,
         188,
         194,
-        200,
-        215,
+        209,
+        216,
         222,
-        228,
+        229,
+        233,
+        234,
         235,
-        239,
-        240,
-        241,
-        249
+        243
       ],
       "ToUseDependencies": [
-        239,
-        241
+        233,
+        235
       ],
       "FrontendResponseFiles": [
         "Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.rsp"
@@ -16141,7 +15479,7 @@
           "Value": "0"
         }
       ],
-      "DebugActionIndex": 242
+      "DebugActionIndex": 236
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/Unity.AI.Navigation.Updater.ref.dll_34B8D5B7DED6E76D.mvfrm",
@@ -16155,11 +15493,11 @@
         "Library/Bee/artifacts/mvdfrm/Unity.AI.Navigation.Updater.ref.dll_34B8D5B7DED6E76D.mvfrm"
       ],
       "ToBuildDependencies": [
-        228
+        222
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 243
+      "DebugActionIndex": 237
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/Unity.Rider.Editor.ref.dll_9B5591808ABA37AF.mvfrm",
@@ -16173,11 +15511,11 @@
         "Library/Bee/artifacts/mvdfrm/Unity.Rider.Editor.ref.dll_9B5591808ABA37AF.mvfrm"
       ],
       "ToBuildDependencies": [
-        151
+        145
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 244
+      "DebugActionIndex": 238
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/Unity.TextMeshPro.Editor.ref.dll_159E061D77A10B86.mvfrm",
@@ -16191,11 +15529,11 @@
         "Library/Bee/artifacts/mvdfrm/Unity.TextMeshPro.Editor.ref.dll_159E061D77A10B86.mvfrm"
       ],
       "ToBuildDependencies": [
-        215
+        209
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 245
+      "DebugActionIndex": 239
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/Unity.VSCode.Editor.ref.dll_3628369EB48E4C19.mvfrm",
@@ -16209,11 +15547,11 @@
         "Library/Bee/artifacts/mvdfrm/Unity.VSCode.Editor.ref.dll_3628369EB48E4C19.mvfrm"
       ],
       "ToBuildDependencies": [
-        169
+        163
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 246
+      "DebugActionIndex": 240
     },
     {
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/Unity.VisualStudio.Editor.ref.dll_3A975DBA53ABA4AD.mvfrm",
@@ -16227,24 +15565,24 @@
         "Library/Bee/artifacts/mvdfrm/Unity.VisualStudio.Editor.ref.dll_3A975DBA53ABA4AD.mvfrm"
       ],
       "ToBuildDependencies": [
-        175
+        169
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 247
+      "DebugActionIndex": 241
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll.mvfrm.rsp",
       "DisplayName": "Writing Assembly-CSharp.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1012558,
+      "PayloadOffset": 969453,
       "PayloadLength": 8353,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll.mvfrm.rsp"
       ],
-      "DebugActionIndex": 248
+      "DebugActionIndex": 242
     },
     {
       "Annotation": "MovedFromExtractorCombine Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll.mvfrm",
@@ -16440,62 +15778,62 @@
         89,
         114,
         121,
-        182,
-        201,
-        202,
-        209,
-        216,
-        229,
-        236,
-        243,
-        244,
-        245,
-        246,
-        247,
-        248
+        176,
+        195,
+        196,
+        203,
+        210,
+        223,
+        230,
+        237,
+        238,
+        239,
+        240,
+        241,
+        242
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 249
+      "DebugActionIndex": 243
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Assembly-CSharp-Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1021024,
+      "PayloadOffset": 977919,
       "PayloadLength": 24,
       "PayloadDebugContentSnippet": "E:\\Games\\MoneyStackRun3D",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.UnityAdditionalFile.txt"
       ],
-      "DebugActionIndex": 250
+      "DebugActionIndex": 244
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.rsp",
       "DisplayName": "Writing Assembly-CSharp-Editor.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1021141,
-      "PayloadLength": 36201,
+      "PayloadOffset": 978036,
+      "PayloadLength": 35810,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.rsp"
       ],
-      "DebugActionIndex": 251
+      "DebugActionIndex": 245
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.rsp2",
       "DisplayName": "Writing Assembly-CSharp-Editor.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1057436,
+      "PayloadOffset": 1013940,
       "PayloadLength": 0,
       "PayloadDebugContentSnippet": "",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.rsp2"
       ],
-      "DebugActionIndex": 252
+      "DebugActionIndex": 246
     },
     {
       "Annotation": "Csc Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.dll (+2 others)",
@@ -16513,12 +15851,6 @@
         "Assets/Firebase/Plugins/Firebase.Platform.dll",
         "Assets/Firebase/Plugins/Firebase.TaskExtension.dll",
         "Assets/Firebase/Plugins/Google.MiniJson.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Common.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Core.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Ump.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Ump.Unity.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Unity.dll",
         "Assets/Other/Demigiant/Demigiant/DemiLib/Core/DemiLib.dll",
         "Assets/Other/Demigiant/Demigiant/DemiLib/Core/Editor/DemiEditor.dll",
         "Assets/Other/Demigiant/Demigiant/DOTween/DOTween.dll",
@@ -16744,7 +16076,6 @@
         "Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.ref.dll",
         "Library/Bee/artifacts/1900b0aE.dag/Cinemachine.ref.dll",
         "Library/Bee/artifacts/1900b0aE.dag/com.unity.cinemachine.editor.ref.dll",
-        "Library/Bee/artifacts/1900b0aE.dag/GoogleMobileAds.Editor.ref.dll",
         "Library/Bee/artifacts/1900b0aE.dag/ToonyColorsPro.Editor.ref.dll",
         "Library/Bee/artifacts/1900b0aE.dag/ToonyColorsPro.Runtime.ref.dll",
         "Library/Bee/artifacts/1900b0aE.dag/ToonyColorsPro2.Demo.ref.dll",
@@ -16874,23 +16205,22 @@
         163,
         169,
         175,
-        181,
+        182,
         188,
         194,
-        200,
-        215,
+        209,
+        216,
         222,
-        228,
-        235,
-        242,
-        250,
-        251,
-        252,
-        255
+        229,
+        236,
+        244,
+        245,
+        246,
+        249
       ],
       "ToUseDependencies": [
-        250,
-        252
+        244,
+        246
       ],
       "FrontendResponseFiles": [
         "Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.rsp"
@@ -16902,20 +16232,20 @@
           "Value": "0"
         }
       ],
-      "DebugActionIndex": 253
+      "DebugActionIndex": 247
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Assembly-CSharp-Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1057539,
+      "PayloadOffset": 1014043,
       "PayloadLength": 8950,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.dll.mvfrm.rsp"
       ],
-      "DebugActionIndex": 254
+      "DebugActionIndex": 248
     },
     {
       "Annotation": "MovedFromExtractorCombine Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.dll.mvfrm",
@@ -17125,23 +16455,23 @@
         113,
         114,
         121,
-        182,
-        201,
-        202,
-        209,
-        216,
-        229,
-        236,
-        243,
-        244,
-        245,
-        246,
-        247,
-        254
+        176,
+        195,
+        196,
+        203,
+        210,
+        223,
+        230,
+        237,
+        238,
+        239,
+        240,
+        241,
+        248
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 255
+      "DebugActionIndex": 249
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/UnityEngine.TestRunner.dll",
@@ -17156,7 +16486,7 @@
       "ToBuildDependencies": [
         4
       ],
-      "DebugActionIndex": 256
+      "DebugActionIndex": 250
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/UnityEngine.TestRunner.pdb",
@@ -17171,7 +16501,7 @@
       "ToBuildDependencies": [
         4
       ],
-      "DebugActionIndex": 257
+      "DebugActionIndex": 251
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/UnityEditor.TestRunner.dll",
@@ -17186,7 +16516,7 @@
       "ToBuildDependencies": [
         104
       ],
-      "DebugActionIndex": 258
+      "DebugActionIndex": 252
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/UnityEditor.TestRunner.pdb",
@@ -17201,7 +16531,7 @@
       "ToBuildDependencies": [
         104
       ],
-      "DebugActionIndex": 259
+      "DebugActionIndex": 253
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.Rider.Editor.dll",
@@ -17214,9 +16544,9 @@
         "Library/ScriptAssemblies/Unity.Rider.Editor.dll"
       ],
       "ToBuildDependencies": [
-        151
+        145
       ],
-      "DebugActionIndex": 260
+      "DebugActionIndex": 254
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.Rider.Editor.pdb",
@@ -17229,9 +16559,9 @@
         "Library/ScriptAssemblies/Unity.Rider.Editor.pdb"
       ],
       "ToBuildDependencies": [
-        151
+        145
       ],
-      "DebugActionIndex": 261
+      "DebugActionIndex": 255
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.VSCode.Editor.dll",
@@ -17244,9 +16574,9 @@
         "Library/ScriptAssemblies/Unity.VSCode.Editor.dll"
       ],
       "ToBuildDependencies": [
-        169
+        163
       ],
-      "DebugActionIndex": 262
+      "DebugActionIndex": 256
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.VSCode.Editor.pdb",
@@ -17259,9 +16589,9 @@
         "Library/ScriptAssemblies/Unity.VSCode.Editor.pdb"
       ],
       "ToBuildDependencies": [
-        169
+        163
       ],
-      "DebugActionIndex": 263
+      "DebugActionIndex": 257
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll",
@@ -17274,9 +16604,9 @@
         "Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll"
       ],
       "ToBuildDependencies": [
-        175
+        169
       ],
-      "DebugActionIndex": 264
+      "DebugActionIndex": 258
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.VisualStudio.Editor.pdb",
@@ -17289,9 +16619,9 @@
         "Library/ScriptAssemblies/Unity.VisualStudio.Editor.pdb"
       ],
       "ToBuildDependencies": [
-        175
+        169
       ],
-      "DebugActionIndex": 265
+      "DebugActionIndex": 259
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/UnityEngine.UI.dll",
@@ -17306,7 +16636,7 @@
       "ToBuildDependencies": [
         96
       ],
-      "DebugActionIndex": 266
+      "DebugActionIndex": 260
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/UnityEngine.UI.pdb",
@@ -17321,7 +16651,7 @@
       "ToBuildDependencies": [
         96
       ],
-      "DebugActionIndex": 267
+      "DebugActionIndex": 261
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/UnityEditor.UI.dll",
@@ -17336,7 +16666,7 @@
       "ToBuildDependencies": [
         112
       ],
-      "DebugActionIndex": 268
+      "DebugActionIndex": 262
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/UnityEditor.UI.pdb",
@@ -17351,37 +16681,7 @@
       "ToBuildDependencies": [
         112
       ],
-      "DebugActionIndex": 269
-    },
-    {
-      "Annotation": "CopyFiles Library/ScriptAssemblies/GoogleMobileAds.Editor.dll",
-      "DisplayName": "Copying GoogleMobileAds.Editor.dll",
-      "ActionType": "CopyFiles",
-      "Inputs": [
-        "Library/Bee/artifacts/1900b0aE.dag/GoogleMobileAds.Editor.dll"
-      ],
-      "Outputs": [
-        "Library/ScriptAssemblies/GoogleMobileAds.Editor.dll"
-      ],
-      "ToBuildDependencies": [
-        120
-      ],
-      "DebugActionIndex": 270
-    },
-    {
-      "Annotation": "CopyFiles Library/ScriptAssemblies/GoogleMobileAds.Editor.pdb",
-      "DisplayName": "Copying GoogleMobileAds.Editor.pdb",
-      "ActionType": "CopyFiles",
-      "Inputs": [
-        "Library/Bee/artifacts/1900b0aE.dag/GoogleMobileAds.Editor.pdb"
-      ],
-      "Outputs": [
-        "Library/ScriptAssemblies/GoogleMobileAds.Editor.pdb"
-      ],
-      "ToBuildDependencies": [
-        120
-      ],
-      "DebugActionIndex": 271
+      "DebugActionIndex": 263
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/ToonyColorsPro.Runtime.dll",
@@ -17394,9 +16694,9 @@
         "Library/ScriptAssemblies/ToonyColorsPro.Runtime.dll"
       ],
       "ToBuildDependencies": [
-        127
+        120
       ],
-      "DebugActionIndex": 272
+      "DebugActionIndex": 264
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/ToonyColorsPro.Runtime.pdb",
@@ -17409,9 +16709,9 @@
         "Library/ScriptAssemblies/ToonyColorsPro.Runtime.pdb"
       ],
       "ToBuildDependencies": [
-        127
+        120
       ],
-      "DebugActionIndex": 273
+      "DebugActionIndex": 265
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.AI.Navigation.Editor.ConversionSystem.dll",
@@ -17424,9 +16724,9 @@
         "Library/ScriptAssemblies/Unity.AI.Navigation.Editor.ConversionSystem.dll"
       ],
       "ToBuildDependencies": [
-        133
+        127
       ],
-      "DebugActionIndex": 274
+      "DebugActionIndex": 266
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.AI.Navigation.Editor.ConversionSystem.pdb",
@@ -17439,9 +16739,9 @@
         "Library/ScriptAssemblies/Unity.AI.Navigation.Editor.ConversionSystem.pdb"
       ],
       "ToBuildDependencies": [
-        133
+        127
       ],
-      "DebugActionIndex": 275
+      "DebugActionIndex": 267
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.AI.Navigation.dll",
@@ -17454,9 +16754,9 @@
         "Library/ScriptAssemblies/Unity.AI.Navigation.dll"
       ],
       "ToBuildDependencies": [
-        139
+        133
       ],
-      "DebugActionIndex": 276
+      "DebugActionIndex": 268
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.AI.Navigation.pdb",
@@ -17469,9 +16769,9 @@
         "Library/ScriptAssemblies/Unity.AI.Navigation.pdb"
       ],
       "ToBuildDependencies": [
-        139
+        133
       ],
-      "DebugActionIndex": 277
+      "DebugActionIndex": 269
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll",
@@ -17484,9 +16784,9 @@
         "Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll"
       ],
       "ToBuildDependencies": [
-        145
+        139
       ],
-      "DebugActionIndex": 278
+      "DebugActionIndex": 270
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.PlasticSCM.Editor.pdb",
@@ -17499,9 +16799,9 @@
         "Library/ScriptAssemblies/Unity.PlasticSCM.Editor.pdb"
       ],
       "ToBuildDependencies": [
-        145
+        139
       ],
-      "DebugActionIndex": 279
+      "DebugActionIndex": 271
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.TextMeshPro.dll",
@@ -17514,9 +16814,9 @@
         "Library/ScriptAssemblies/Unity.TextMeshPro.dll"
       ],
       "ToBuildDependencies": [
-        157
+        151
       ],
-      "DebugActionIndex": 280
+      "DebugActionIndex": 272
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.TextMeshPro.pdb",
@@ -17529,9 +16829,9 @@
         "Library/ScriptAssemblies/Unity.TextMeshPro.pdb"
       ],
       "ToBuildDependencies": [
-        157
+        151
       ],
-      "DebugActionIndex": 281
+      "DebugActionIndex": 273
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.Timeline.dll",
@@ -17544,9 +16844,9 @@
         "Library/ScriptAssemblies/Unity.Timeline.dll"
       ],
       "ToBuildDependencies": [
-        163
+        157
       ],
-      "DebugActionIndex": 282
+      "DebugActionIndex": 274
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.Timeline.pdb",
@@ -17559,9 +16859,9 @@
         "Library/ScriptAssemblies/Unity.Timeline.pdb"
       ],
       "ToBuildDependencies": [
-        163
+        157
       ],
-      "DebugActionIndex": 283
+      "DebugActionIndex": 275
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Cinemachine.dll",
@@ -17574,9 +16874,9 @@
         "Library/ScriptAssemblies/Cinemachine.dll"
       ],
       "ToBuildDependencies": [
-        181
+        175
       ],
-      "DebugActionIndex": 284
+      "DebugActionIndex": 276
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Cinemachine.pdb",
@@ -17589,9 +16889,9 @@
         "Library/ScriptAssemblies/Cinemachine.pdb"
       ],
       "ToBuildDependencies": [
-        181
+        175
       ],
-      "DebugActionIndex": 285
+      "DebugActionIndex": 277
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/ToonyColorsPro.Editor.dll",
@@ -17604,9 +16904,9 @@
         "Library/ScriptAssemblies/ToonyColorsPro.Editor.dll"
       ],
       "ToBuildDependencies": [
-        188
+        182
       ],
-      "DebugActionIndex": 286
+      "DebugActionIndex": 278
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/ToonyColorsPro.Editor.pdb",
@@ -17619,9 +16919,9 @@
         "Library/ScriptAssemblies/ToonyColorsPro.Editor.pdb"
       ],
       "ToBuildDependencies": [
-        188
+        182
       ],
-      "DebugActionIndex": 287
+      "DebugActionIndex": 279
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/ToonyColorsPro2.Demo.dll",
@@ -17634,9 +16934,9 @@
         "Library/ScriptAssemblies/ToonyColorsPro2.Demo.dll"
       ],
       "ToBuildDependencies": [
-        194
+        188
       ],
-      "DebugActionIndex": 288
+      "DebugActionIndex": 280
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/ToonyColorsPro2.Demo.pdb",
@@ -17649,9 +16949,9 @@
         "Library/ScriptAssemblies/ToonyColorsPro2.Demo.pdb"
       ],
       "ToBuildDependencies": [
-        194
+        188
       ],
-      "DebugActionIndex": 289
+      "DebugActionIndex": 281
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.AI.Navigation.Editor.dll",
@@ -17664,9 +16964,9 @@
         "Library/ScriptAssemblies/Unity.AI.Navigation.Editor.dll"
       ],
       "ToBuildDependencies": [
-        200
+        194
       ],
-      "DebugActionIndex": 290
+      "DebugActionIndex": 282
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.AI.Navigation.Editor.pdb",
@@ -17679,9 +16979,9 @@
         "Library/ScriptAssemblies/Unity.AI.Navigation.Editor.pdb"
       ],
       "ToBuildDependencies": [
-        200
+        194
       ],
-      "DebugActionIndex": 291
+      "DebugActionIndex": 283
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll",
@@ -17694,9 +16994,9 @@
         "Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll"
       ],
       "ToBuildDependencies": [
-        208
+        202
       ],
-      "DebugActionIndex": 292
+      "DebugActionIndex": 284
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.CollabProxy.Editor.pdb",
@@ -17709,9 +17009,9 @@
         "Library/ScriptAssemblies/Unity.CollabProxy.Editor.pdb"
       ],
       "ToBuildDependencies": [
-        208
+        202
       ],
-      "DebugActionIndex": 293
+      "DebugActionIndex": 285
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll",
@@ -17724,9 +17024,9 @@
         "Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll"
       ],
       "ToBuildDependencies": [
-        215
+        209
       ],
-      "DebugActionIndex": 294
+      "DebugActionIndex": 286
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.TextMeshPro.Editor.pdb",
@@ -17739,9 +17039,9 @@
         "Library/ScriptAssemblies/Unity.TextMeshPro.Editor.pdb"
       ],
       "ToBuildDependencies": [
-        215
+        209
       ],
-      "DebugActionIndex": 295
+      "DebugActionIndex": 287
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.Timeline.Editor.dll",
@@ -17754,9 +17054,9 @@
         "Library/ScriptAssemblies/Unity.Timeline.Editor.dll"
       ],
       "ToBuildDependencies": [
-        222
+        216
       ],
-      "DebugActionIndex": 296
+      "DebugActionIndex": 288
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.Timeline.Editor.pdb",
@@ -17769,9 +17069,9 @@
         "Library/ScriptAssemblies/Unity.Timeline.Editor.pdb"
       ],
       "ToBuildDependencies": [
-        222
+        216
       ],
-      "DebugActionIndex": 297
+      "DebugActionIndex": 289
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.AI.Navigation.Updater.dll",
@@ -17784,9 +17084,9 @@
         "Library/ScriptAssemblies/Unity.AI.Navigation.Updater.dll"
       ],
       "ToBuildDependencies": [
-        228
+        222
       ],
-      "DebugActionIndex": 298
+      "DebugActionIndex": 290
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.AI.Navigation.Updater.pdb",
@@ -17799,9 +17099,9 @@
         "Library/ScriptAssemblies/Unity.AI.Navigation.Updater.pdb"
       ],
       "ToBuildDependencies": [
-        228
+        222
       ],
-      "DebugActionIndex": 299
+      "DebugActionIndex": 291
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/com.unity.cinemachine.editor.dll",
@@ -17814,9 +17114,9 @@
         "Library/ScriptAssemblies/com.unity.cinemachine.editor.dll"
       ],
       "ToBuildDependencies": [
-        235
+        229
       ],
-      "DebugActionIndex": 300
+      "DebugActionIndex": 292
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/com.unity.cinemachine.editor.pdb",
@@ -17829,9 +17129,9 @@
         "Library/ScriptAssemblies/com.unity.cinemachine.editor.pdb"
       ],
       "ToBuildDependencies": [
-        235
+        229
       ],
-      "DebugActionIndex": 301
+      "DebugActionIndex": 293
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Assembly-CSharp.dll",
@@ -17844,9 +17144,9 @@
         "Library/ScriptAssemblies/Assembly-CSharp.dll"
       ],
       "ToBuildDependencies": [
-        242
+        236
       ],
-      "DebugActionIndex": 302
+      "DebugActionIndex": 294
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Assembly-CSharp.pdb",
@@ -17859,9 +17159,9 @@
         "Library/ScriptAssemblies/Assembly-CSharp.pdb"
       ],
       "ToBuildDependencies": [
-        242
+        236
       ],
-      "DebugActionIndex": 303
+      "DebugActionIndex": 295
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Assembly-CSharp-Editor.dll",
@@ -17874,9 +17174,9 @@
         "Library/ScriptAssemblies/Assembly-CSharp-Editor.dll"
       ],
       "ToBuildDependencies": [
-        253
+        247
       ],
-      "DebugActionIndex": 304
+      "DebugActionIndex": 296
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Assembly-CSharp-Editor.pdb",
@@ -17889,14 +17189,14 @@
         "Library/ScriptAssemblies/Assembly-CSharp-Editor.pdb"
       ],
       "ToBuildDependencies": [
-        253
+        247
       ],
-      "DebugActionIndex": 305
+      "DebugActionIndex": 297
     },
     {
       "Annotation": "BuildPlayerDataGenerator Library/BuildPlayerData/Editor/TypeDb-All.json",
       "DisplayName": "BuildPlayerDataGenerator TypeDb-All",
-      "Action": "\"E:/Unity/2022.3.62f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"E:/Unity/2022.3.62f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"E:\\Games\\MoneyStackRun3D\\Assets\\Firebase\\Plugins\\Firebase.Analytics.dll\" -a=\"E:\\Games\\MoneyStackRun3D\\Assets\\Firebase\\Plugins\\Firebase.App.dll\" -a=\"E:\\Games\\MoneyStackRun3D\\Assets\\Firebase\\Plugins\\Firebase.Platform.dll\" -a=\"E:\\Games\\MoneyStackRun3D\\Assets\\Firebase\\Plugins\\Firebase.TaskExtension.dll\" -a=\"E:\\Games\\MoneyStackRun3D\\Assets\\Firebase\\Plugins\\Google.MiniJson.dll\" -a=\"E:\\Games\\MoneyStackRun3D\\Assets\\GoogleMobileAds\\GoogleMobileAds.Common.dll\" -a=\"E:\\Games\\MoneyStackRun3D\\Assets\\GoogleMobileAds\\GoogleMobileAds.Core.dll\" -a=\"E:\\Games\\MoneyStackRun3D\\Assets\\GoogleMobileAds\\GoogleMobileAds.dll\" -a=\"E:\\Games\\MoneyStackRun3D\\Assets\\GoogleMobileAds\\GoogleMobileAds.Ump.dll\" -a=\"E:\\Games\\MoneyStackRun3D\\Assets\\GoogleMobileAds\\GoogleMobileAds.Ump.Unity.dll\" -a=\"E:\\Games\\MoneyStackRun3D\\Assets\\GoogleMobileAds\\GoogleMobileAds.Unity.dll\" -a=\"E:\\Games\\MoneyStackRun3D\\Assets\\Other\\Demigiant\\Demigiant\\DemiLib\\Core\\DemiLib.dll\" -a=\"E:\\Games\\MoneyStackRun3D\\Assets\\Other\\Demigiant\\Demigiant\\DOTween\\DOTween.dll\" -a=\"E:\\Games\\MoneyStackRun3D\\Assets\\Other\\Demigiant\\Demigiant\\DOTweenPro\\DOTweenPro.dll\" -a=\"E:\\Games\\MoneyStackRun3D\\Library\\ScriptAssemblies\\Assembly-CSharp.dll\" -a=\"E:\\Games\\MoneyStackRun3D\\Library\\ScriptAssemblies\\Cinemachine.dll\" -a=\"E:\\Games\\MoneyStackRun3D\\Library\\ScriptAssemblies\\ToonyColorsPro.Runtime.dll\" -a=\"E:\\Games\\MoneyStackRun3D\\Library\\ScriptAssemblies\\ToonyColorsPro2.Demo.dll\" -a=\"E:\\Games\\MoneyStackRun3D\\Library\\ScriptAssemblies\\Unity.AI.Navigation.dll\" -a=\"E:\\Games\\MoneyStackRun3D\\Library\\ScriptAssemblies\\Unity.TextMeshPro.dll\" -a=\"E:\\Games\\MoneyStackRun3D\\Library\\ScriptAssemblies\\Unity.Timeline.dll\" -a=\"E:\\Games\\MoneyStackRun3D\\Library\\ScriptAssemblies\\UnityEngine.TestRunner.dll\" -a=\"E:\\Games\\MoneyStackRun3D\\Library\\ScriptAssemblies\\UnityEngine.UI.dll\" -a=\"E:\\Games\\MoneyStackRun3D\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\\nunit.framework.dll\" -s=\"E:\\Games\\MoneyStackRun3D\\Assets\\Firebase\\Plugins\" -s=\"E:\\Games\\MoneyStackRun3D\\Assets\\GoogleMobileAds\" -s=\"E:\\Games\\MoneyStackRun3D\\Assets\\Other\\Demigiant\\Demigiant\\DemiLib\\Core\" -s=\"E:\\Games\\MoneyStackRun3D\\Assets\\Other\\Demigiant\\Demigiant\\DOTween\" -s=\"E:\\Games\\MoneyStackRun3D\\Assets\\Other\\Demigiant\\Demigiant\\DOTweenPro\" -s=\"E:\\Unity\\2022.3.62f1\\Editor\\Data\\Managed\\UnityEngine\" -s=\"E:\\Unity\\2022.3.62f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netfx\" -s=\"E:\\Unity\\2022.3.62f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netstandard\" -s=\"E:\\Unity\\2022.3.62f1\\Editor\\Data\\NetStandard\\Extensions\\2.0.0\" -s=\"E:\\Unity\\2022.3.62f1\\Editor\\Data\\NetStandard\\ref\\2.1.0\" -s=\"E:\\Games\\MoneyStackRun3D\\Library\\ScriptAssemblies\" -s=\"E:\\Games\\MoneyStackRun3D\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
+      "Action": "\"E:/Unity/2022.3.62f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"E:/Unity/2022.3.62f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"E:\\Games\\MoneyStackRun3D\\Assets\\Firebase\\Plugins\\Firebase.Analytics.dll\" -a=\"E:\\Games\\MoneyStackRun3D\\Assets\\Firebase\\Plugins\\Firebase.App.dll\" -a=\"E:\\Games\\MoneyStackRun3D\\Assets\\Firebase\\Plugins\\Firebase.Platform.dll\" -a=\"E:\\Games\\MoneyStackRun3D\\Assets\\Firebase\\Plugins\\Firebase.TaskExtension.dll\" -a=\"E:\\Games\\MoneyStackRun3D\\Assets\\Firebase\\Plugins\\Google.MiniJson.dll\" -a=\"E:\\Games\\MoneyStackRun3D\\Assets\\Other\\Demigiant\\Demigiant\\DemiLib\\Core\\DemiLib.dll\" -a=\"E:\\Games\\MoneyStackRun3D\\Assets\\Other\\Demigiant\\Demigiant\\DOTween\\DOTween.dll\" -a=\"E:\\Games\\MoneyStackRun3D\\Assets\\Other\\Demigiant\\Demigiant\\DOTweenPro\\DOTweenPro.dll\" -a=\"E:\\Games\\MoneyStackRun3D\\Library\\ScriptAssemblies\\Assembly-CSharp.dll\" -a=\"E:\\Games\\MoneyStackRun3D\\Library\\ScriptAssemblies\\Cinemachine.dll\" -a=\"E:\\Games\\MoneyStackRun3D\\Library\\ScriptAssemblies\\ToonyColorsPro.Runtime.dll\" -a=\"E:\\Games\\MoneyStackRun3D\\Library\\ScriptAssemblies\\ToonyColorsPro2.Demo.dll\" -a=\"E:\\Games\\MoneyStackRun3D\\Library\\ScriptAssemblies\\Unity.AI.Navigation.dll\" -a=\"E:\\Games\\MoneyStackRun3D\\Library\\ScriptAssemblies\\Unity.TextMeshPro.dll\" -a=\"E:\\Games\\MoneyStackRun3D\\Library\\ScriptAssemblies\\Unity.Timeline.dll\" -a=\"E:\\Games\\MoneyStackRun3D\\Library\\ScriptAssemblies\\UnityEngine.TestRunner.dll\" -a=\"E:\\Games\\MoneyStackRun3D\\Library\\ScriptAssemblies\\UnityEngine.UI.dll\" -a=\"E:\\Games\\MoneyStackRun3D\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\\nunit.framework.dll\" -s=\"E:\\Games\\MoneyStackRun3D\\Assets\\Firebase\\Plugins\" -s=\"E:\\Games\\MoneyStackRun3D\\Assets\\Other\\Demigiant\\Demigiant\\DemiLib\\Core\" -s=\"E:\\Games\\MoneyStackRun3D\\Assets\\Other\\Demigiant\\Demigiant\\DOTween\" -s=\"E:\\Games\\MoneyStackRun3D\\Assets\\Other\\Demigiant\\Demigiant\\DOTweenPro\" -s=\"E:\\Unity\\2022.3.62f1\\Editor\\Data\\Managed\\UnityEngine\" -s=\"E:\\Unity\\2022.3.62f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netfx\" -s=\"E:\\Unity\\2022.3.62f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netstandard\" -s=\"E:\\Unity\\2022.3.62f1\\Editor\\Data\\NetStandard\\Extensions\\2.0.0\" -s=\"E:\\Unity\\2022.3.62f1\\Editor\\Data\\NetStandard\\ref\\2.1.0\" -s=\"E:\\Games\\MoneyStackRun3D\\Library\\ScriptAssemblies\" -s=\"E:\\Games\\MoneyStackRun3D\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
       "Inputs": [
         "E:/Unity/2022.3.62f1/Editor/Data/Tools/netcorerun/netcorerun.exe",
         "E:/Unity/2022.3.62f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe",
@@ -17905,12 +17205,6 @@
         "Assets/Firebase/Plugins/Firebase.Platform.dll",
         "Assets/Firebase/Plugins/Firebase.TaskExtension.dll",
         "Assets/Firebase/Plugins/Google.MiniJson.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Common.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Core.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Ump.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Ump.Unity.dll",
-        "Assets/GoogleMobileAds/GoogleMobileAds.Unity.dll",
         "Assets/Other/Demigiant/Demigiant/DemiLib/Core/DemiLib.dll",
         "Assets/Other/Demigiant/Demigiant/DOTween/DOTween.dll",
         "Assets/Other/Demigiant/Demigiant/DOTweenPro/DOTweenPro.dll",
@@ -17929,19 +17223,19 @@
         "Library/BuildPlayerData/Editor/TypeDb-All.json"
       ],
       "ToBuildDependencies": [
-        256,
-        266,
+        250,
+        260,
+        264,
+        268,
         272,
+        274,
         276,
         280,
-        282,
-        284,
-        288,
-        302
+        294
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 306
+      "DebugActionIndex": 298
     },
     {
       "Annotation": "ScriptAssembliesAndTypeDB",
@@ -17950,10 +17244,10 @@
       "Outputs": [],
       "ToBuildDependencies": [
         6,
-        306
+        298
       ],
       "OverwriteOutputs": false,
-      "DebugActionIndex": 307
+      "DebugActionIndex": 299
     }
   ],
   "FileSignatures": [
@@ -18083,27 +17377,6 @@
       "File": "Assets/Firebase/Plugins/Google.MiniJson.dll"
     },
     {
-      "File": "Assets/GoogleMobileAds/Editor/csc.rsp"
-    },
-    {
-      "File": "Assets/GoogleMobileAds/GoogleMobileAds.Common.dll"
-    },
-    {
-      "File": "Assets/GoogleMobileAds/GoogleMobileAds.Core.dll"
-    },
-    {
-      "File": "Assets/GoogleMobileAds/GoogleMobileAds.dll"
-    },
-    {
-      "File": "Assets/GoogleMobileAds/GoogleMobileAds.Ump.dll"
-    },
-    {
-      "File": "Assets/GoogleMobileAds/GoogleMobileAds.Ump.Unity.dll"
-    },
-    {
-      "File": "Assets/GoogleMobileAds/GoogleMobileAds.Unity.dll"
-    },
-    {
       "File": "Assets/JMO Assets/Toony Colors Pro/Demo TCP2/csc.rsp"
     },
     {
@@ -18213,7 +17486,7 @@
         "NamedNodes": {
           "all_tundra_nodes": 0,
           "ScriptAssemblies": 6,
-          "ScriptAssembliesAndTypeDB": 307
+          "ScriptAssembliesAndTypeDB": 299
         }
 ,  "DefaultNodes": [
     0
