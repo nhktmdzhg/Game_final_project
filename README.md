@@ -1,8 +1,10 @@
 # 🎮 Game Final Project: Billionaire Road 3D
 
 ## 👤 Student Information
-- **Student Name**: Mai Khanh Linh  
-- **Student ID**: [Your Student Code Here]  
+- **Student Name 1**: Trần Phúc Thịnh (22125099)  
+- **Student Name 2**: Phạm Gia Nguyện (22125067)  
+- **Student Name 3**: Phùng Khánh Vinh (22125122)  
+- **Student Name 4**: Nguyễn Hoàng Kỳ (22125045)  
 
 ---
 
@@ -56,7 +58,7 @@ You begin with nothing and strive to collect as much money as possible to climb 
 - Add **power-ups** and special boosts to enhance gameplay.  
 - Introduce **new levels, themes, and environments**.  
 - Implement a **leaderboard system** to compete with friends.  
-- Expand to multiple platforms (Android, iOS, WebGL).  
+- Expand to multiple platforms (iOS, WebGL).  
 
 ---
 
