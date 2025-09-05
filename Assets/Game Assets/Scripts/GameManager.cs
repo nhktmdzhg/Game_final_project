@@ -5,6 +5,7 @@ using System.Linq;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
@@ -162,8 +163,9 @@ public class GameManager : MonoBehaviour
     {
         if (gameOver)
         {
-            Time.timeScale = 0;
-            canvas.transform.GetChild(3).gameObject.SetActive(true);
+            // Reset to main screen instead of showing lose popup
+            Time.timeScale = 1;
+            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
         }
     }
 
